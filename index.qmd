@@ -1,0 +1,64 @@
+---
+title: "Giuseppe Ragusa"
+image: gr.jpg
+about:
+  id: gr-presentation
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/gragusa
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.it/citations?user=b6fOfJcAAAAJ&hl=en&oi=ao
+---
+
+:::{#gr-presentation}
+{{< fa building-columns >}} I am an Associate Professor of Economics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) at [Sapienza the University of Rome](https://www.uniroma1.it/).
+
+I am also a guest lecturer at the [London Business School](https://www.london.edu).
+
+Before joining the Sapienza University of Rome, I held tenure-track positions at Rutgers University, the University of California, Irvine, Luiss University, and the University of Pisa. 
+
+From 2015 to 2017, I was a Senior Economist at the Monetary Strategy Division of the  European Central Bank. 
+
+{{< fa graduation-cap >}} I received my Ph.D. in Economics from the University of California, San Diego. My undergraduate education is from Bocconi University. 
+
+{{< fa book-open-reader >}} My most recent research interests include: time series, economic forecasting, approximate bayesian inference, and machine learning applications to economics and finance.
+
+{{< fa person-chalkboard >}} I teach undergraduate and graduate Econometrics, Time Series, and Machine Learning courses. These courses use Julia, R, and Python as software. 
+
+
+:::
+
+
+On this site, I keep [my cv](gragusa_cv.pdf), a list of [my publications](papers), my [code and packages](code), some interesting [data](factors), to my [teaching pages](teaching), and a very infrequently updated [blog](blog).
+
+
+
+<!-- #### {{< ai obp >}} Recent Publications 
+
+
+```{r, recent_pub}
+#| results: 'asis'
+#| echo: false
+library(readtext)
+a <- readtext("bibliography/recent.txt")
+cat("\`\`\`{=html}\n")
+cat(a[1,2])
+cat("\n\`\`\`")
+```
+
+#### Julia Packages
+
+**[CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl)** | HAC Covariance Matrix Estimation
+:::
+
+**[BayesianTools.jl](https://github.com/gragusa/BayesianTools.jl)** | Utilities for Monte Carlo Markov Chain simulations 
+
+**[Divergences.jl](https://github.com/gragusa/Divergences.jl)** | Fast evaluation of divergences 
+
+**[Genoud.jl](https://github.com/gargusa/Genoud.jl)** | Genetic optimization using derivatives -->
+
+#### {{< ai open-data >}} Data 
+
+**[Monetary Policy Factors](factors)** Updated monetary policy factors. 
