@@ -19,6 +19,7 @@ website:
   repo-url: "https://github.com/gragusa.github.com/"
   description: "My new website"
   favicon: favicon.png
+  google-analytics: "UA-78069-5"
   open-graph:
     locale: en_US
   twitter-card:
