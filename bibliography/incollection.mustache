@@ -1,0 +1,22 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">{{{authors}}} ({{year}}): </div><a class="bibtex-title" url={{url}}>{{title}}</a>, in <div class="bibtex-booktitle">{{booktitle}}</div>, edited by <div class="bibtex-editor">{{editor_}}</div>, <div class="bibtex-publisher">{{publisher}}</div>. {{#has_doi}} <div class="bibtex-doi">DOI:{{doi}}</div>{{/has_doi}}
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-{{ID}}" role="button" aria-expanded="false" aria-controls="abstract-{{ID}}">
+[+]
+</a>
+<div class="collapse" id="abstract-{{ID}}">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+{{abstract}}
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm {{#nothas_preprint}}disabled{{/nothas_preprint}}" href="{{preprint}}" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm {{#nothas_code}}disabled{{/nothas_code}}" href="{{code}}" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,329 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a> and 
+<div class="me">G. Ragusa</div>
+ (2021): </div><a class="bibtex-title" url=https://link.springer.com/article/10.1007/s10614-021-10170-1>Euro Area Deflationary Pressure Index</a>, <div class="bibtex-journal">Computational Economics,</div> <div class="bibtex-volume">60</div>, <div class="bibtex-pages">883-900</div>. <div class="bibtex-doi">DOI:10.1007/s10614-021-10170-1</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-brugnolini2021euro" role="button" aria-expanded="false" aria-controls="abstract-brugnolini2021euro">
+[+]
+</a>
+<div class="collapse" id="abstract-brugnolini2021euro">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We focus on forecasting the probability that euro-area inflation will fall into one of three intervals by employing an ordered multinomial model augmented with macroeconomic variables. We directly forecast the probability that the expected euro area HICP price index inflation rate (12-month percent changes) over the next 12 and 24 months will be less than 1.5 percent, exceed 2 percent, or be between these two values. The model includes many predictors, and deal with dimensionality issues by an approach which mixes factor models with Bayesian shrinkage. Our results show that macroeconomic variables’ inclusion improves the model’s forecast quality, especially at the longer horizon considered. The Deflationary Pressure Index coincides with the probability that inflation is below 1.5 percent on average in the next 24 months, and it is useful as a policy monitoring tool.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm " href="inflazione.pdf" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Motto</a> and 
+<div class="me">G. Ragusa</div>
+ (2020): </div><a class="bibtex-title" url=https://www.ecb.europa.eu/pub/economic-research/resbull/2020/html/ecb.rb200722~528ea64f0d.en.html>How do financial markets react to monetary policy signals?</a>, <div class="bibtex-journal">Research Bulletin,</div> <div class="bibtex-volume">73</div>.
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-altavilla2020financial" role="button" aria-expanded="false" aria-controls="abstract-altavilla2020financial">
+[+]
+</a>
+<div class="collapse" id="abstract-altavilla2020financial">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We map ECB policy communications onto yield curve changes and study the information flow on monetary policy decision dates. We find that different monetary policy measures exert effects on different segments of the interest rate term structure, with policy rate changes mostly influencing the short end of the curve and quantitative easing measures acting more on the long end. The impact of forward guidance policies, by contrast, reaches its peak at intermediate maturities. A very useful by-product of this work is the publicly available Euro Area Monetary Policy Event-Study Database (EA-MPD), containing intraday asset price changes.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Motto</a> and 
+<div class="me">G. Ragusa</div>
+ (2019): </div><a class="bibtex-title" url=https://doi.org/10.1016/j.jmoneco.2019.08.016>Measuring Euro Area Monetary Policy</a>, <div class="bibtex-journal">Journal of Monetary Economics,</div> <div class="bibtex-volume">108</div>, <div class="bibtex-pages">162-179</div>. <div class="bibtex-doi">DOI:10.1016/j.jmoneco.2019.08.016</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-measuring" role="button" aria-expanded="false" aria-controls="abstract-measuring">
+[+]
+</a>
+<div class="collapse" id="abstract-measuring">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We map ECB policy communication into yield curve changes and study the information flow on policy dates. A byproduct is the publicly available Euro Area Monetary Policy Event-Study Database (EA-MPD), containing intraday asset price changes. We find that Policy Target, Forward Guidance and Quantitative Easing factors capture about all the variation in the yield curve, with different factors appearing in the windows covering the policy decision announcement and the press conference, and having time-varying variance shares. We study sovereign yields, exchange rates, stock prices, persistence of effects and response asymmetry. Our methodology can be implemented for any policy-related event.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=ncd_LOUAAAAJ">E. Berman</a>, 
+<a class="coauthor" href="">L. Iannaccone</a> and 
+<div class="me">G. Ragusa</div>
+ (2018): </div><a class="bibtex-title" url=https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/abs/from-empty-pews-to-empty-cradles-fertility-decline-among-european-catholics/290ABAEE7F54411B093541DCD5817E67>From Empty Pews To Empty Cradles: Fertility Decline Among European Catholics</a>, <div class="bibtex-journal">Journal of Demographic Economics,</div> <div class="bibtex-volume">84</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">149-187</div>. <div class="bibtex-doi">DOI:10.1017/dem.2017.22</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-berman_iannaccone_ragusa_2018" role="button" aria-expanded="false" aria-controls="abstract-berman_iannaccone_ragusa_2018">
+[+]
+</a>
+<div class="collapse" id="abstract-berman_iannaccone_ragusa_2018">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+Catholic countries of Europe pose a demographic puzzle -fertility is unprecedentedly low (total fertility=1.3) despite low female labor force participation. We model three channels of religious effects on demand for children: through changing norms, reduced market wages, and reduced costs of childrearing. We estimate their effects using new panel data on church attendance and clergy employment for thirteen European countries from 1960-2000, spanning the Second Vatican Council (1962-65). Catholic theology is uniform across countries. Yet service varied considerably across countries and over time, especially before the Council, reflecting differences in Church provision of education, health, welfare and other social services. We use differential declines in service provision --measured by nuns/capita-- to identify its effect on fertility, controlling for secular trends. They are large: 300 to 400 children per nun. Reduced religiosity (measured by church attendance) has no effect for Protestants, but predicts fertility decline for Catholics. The data suggest that service provision and religiosity complement each other -a finding consistent with preferential provision of services to church attendees. Nuns outperform priests in predicting fertility, suggesting that the childrearing cost channel dominates theology and norms.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a> and 
+<div class="me">G. Ragusa</div>
+ (2017): </div><a class="bibtex-title" url=http://dx.doi.org/10.1002/jae.2588>Anchoring the Yield Curve Using Survey Expectations</a>, <div class="bibtex-journal">Journal of Applied Econometrics,</div> <div class="bibtex-volume">32</div><div class="bibtex-number">(6)</div>, <div class="bibtex-pages">1055-1068</div>. <div class="bibtex-doi">DOI:10.1002/jae.2588</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-anchoring" role="button" aria-expanded="false" aria-controls="abstract-anchoring">
+[+]
+</a>
+<div class="collapse" id="abstract-anchoring">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+The dynamic behavior of the term structure of interest rates is difficult to replicate with mod- els, and even models with a proven track record of empirical performance have underperformed since the early 2000s. On the other hand, survey expectations can accurately predict yields, but they are typically not available for all maturities and/or forecast horizons. We show how survey expectations can be exploited to improve the accuracy of yield curve forecasts given by a base model. We do so by employing a flexible exponential tilting method that anchors the model forecasts to the survey expectations, and we develop a test to guide the choice of the anchoring points. The method implicitly incorporates into yield curve forecasts any information that survey participants have access to - such as information about the current state of the economy or forward-looking information contained in monetary policy announcements - without the need to explicitly model it. We document that anchoring delivers large and significant gains in forecast accuracy relative to the class of models that are widely adopted by financial and policy institutions for forecasting the term structure of interest rates.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Z4QMV08AAAAJ">N. Borri</a> and 
+<div class="me">G. Ragusa</div>
+ (2017): </div><a class="bibtex-title" url=http://dx.doi.org/10.1561/104.00000050>Sensitivity, Moment Conditions, and the Risk-free Rate in Yogo (2006)</a>, <div class="bibtex-journal">Critical Review of Finance,</div> <div class="bibtex-volume">6</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">381-393</div>. <div class="bibtex-doi">DOI:10.1561/104.00000050</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-moment-conditions-sensitivity" role="button" aria-expanded="false" aria-controls="abstract-moment-conditions-sensitivity">
+[+]
+</a>
+<div class="collapse" id="abstract-moment-conditions-sensitivity">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+In this paper we show that results presented in the seminal paper by Yogo, A Consumption Based Explanation of Expected Stock Returns, cannot be replicated. We find different estimates for the parameters and we obtain values of over-identified statistics that being much larger than those in the original paper indicate rejection of the durable consumption asset pricing model. By careful inspection of Yogo’s replication files, we were able to track down the inconsistency to a coding bug. The rejection of the durable model is exemplified by its inability to simultaneously explain the risk-free rate and excess stock returns.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=qnCATE8AAAAJ">R. Gallant</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a> and 
+<div class="me">G. Ragusa</div>
+ (2017): </div><a class="bibtex-title" url=https://doi.org/10.1016/j.jeconom.2017.08.003>Bayesian Estimation of State Space Models Using Moment Conditions</a>, <div class="bibtex-journal">Journal of Econometrics,</div> <div class="bibtex-volume">201</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">198-211</div>. <div class="bibtex-doi">DOI:10.1016/j.jeconom.2017.08.003</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-bayesian-state-space" role="button" aria-expanded="false" aria-controls="abstract-bayesian-state-space">
+[+]
+</a>
+<div class="collapse" id="abstract-bayesian-state-space">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We consider Bayesian estimation of state space models when the measurement density is not available but estimating equations for the parameters of the measurement density are available from moment conditions. The most common applications are partial equilibrium models involving moment conditions that depend on dynamic latent variables (e.g., timevarying parameters, stochastic volatility) and dynamic general equilibrium models when moment equations from the first order conditions are available but computing an accurate approximation to the measurement density is difficult.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm " href="bliml.pdf" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=sYJua10AAAAJ">I. Komunjer</a> and 
+<div class="me">G. Ragusa</div>
+ (2015): </div><a class="bibtex-title" url=http://dx.doi.org/10.1017/s0266466615000158>Existence and Characterization of Conditional Density Projections</a>, <div class="bibtex-journal">Econometric Theory,</div> <div class="bibtex-volume">32</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">947-987</div>. <div class="bibtex-doi">DOI:10.1017/s0266466615000158</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-density-projection" role="button" aria-expanded="false" aria-controls="abstract-density-projection">
+[+]
+</a>
+<div class="collapse" id="abstract-density-projection">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+In this paper we propose primitive conditions under which a projection of a conditional density onto a set defined by conditional moment restrictions exists and is unique. Moreover, we provide an analytic expression of the obtained projection. The range of applications where conditional density projections are used is wide. The derived results are potentially useful in a variety of areas including: semiparametric efficient estimation and optimal testing in (conditional) moment models, Bayesian prior determination and inference in semiparametric models, density forecasting, and simulation-based econometric analysis. Regarding existence, we propose three different combinations of assumptions that are all sufficient to show that the projection exists and is unique. The proposed conditions exhibit a clear trade off between restrictions put on the divergence between the conditional densities and on the moment function which defines the projection set. Depending on the nature of the application, the researcher can pick and choose which set of conditions to use. Our second set of results characterizes the projection. The expression for the projected density is new though not surprising given the previously obtained results for the unconditional case. The projection is characterized by the dual of the original projection problem. In establishing the strong duality, however, we work with a constraint qualification condition that is weaker than that used by Borwein and Lewis (1991a, 1992a, 1993) in their seminal work concerning the unconditional case.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1007/s00148-014-0533-9>Unexplored Dimensions of Discrimination in Europe: Homosexuality and Physical Appearance</a>, <div class="bibtex-journal">Journal of Population Economics,</div> <div class="bibtex-volume">28</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">1045-1073</div>. <div class="bibtex-doi">DOI:10.1007/s00148-014-0533-9</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unexplored-discrimination-jpop" role="button" aria-expanded="false" aria-controls="abstract-unexplored-discrimination-jpop">
+[+]
+</a>
+<div class="collapse" id="abstract-unexplored-discrimination-jpop">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We study labor-market discrimination of individuals with  in Italy. We conduct a field experiment in two Italian cities: Rome and Milan, by sending &quot;fake&quot; CVs to real ads. We find that there is a strong penalty for homosexuals, i.e., about 30\% less chance to be called back compared to a heterosexual male and even more so if they are highly skilled. On the other hand, we find no penalty for homosexual females. We also find a beauty premium for females only but this premium is much lower when the pretty woman is skilled.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a> and 
+<div class="me">G. Ragusa</div>
+ (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1016/j.jeconom.2014.04.014>Theory-coherent forecasting</a>, <div class="bibtex-journal">Journal of Econometrics,</div> <div class="bibtex-volume">182</div><div class="bibtex-number">(1)</div>, <div class="bibtex-pages">145-155</div>. <div class="bibtex-doi">DOI:10.1016/j.jeconom.2014.04.014</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-theory-coherent" role="button" aria-expanded="false" aria-controls="abstract-theory-coherent">
+[+]
+</a>
+<div class="collapse" id="abstract-theory-coherent">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We consider a method for producing multivariate density forecasts that satisfy moment restrictions implied by economic theory, such as Euler conditions. The method starts from a base forecast that might not satisfy the theoretical restrictions and forces it to satisfy the moment conditions using exponential tilting. Although exponential tilting has been considered before in a Bayesian context (Robertson et al. 2005), our main contributions are: (1) to adapt the method to a classical inferential context with out-of-sample evaluation objectives and parameter estimation uncertainty; and (2) to formally discuss the conditions under which the method delivers improvements in forecast accuracy. An empirical illustration which incorporates Euler conditions into forecasts produced by Bayesian vector autoregressions shows that the improvements in accuracy can be sizable and significant.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=QCwoE8UAAAAJ">F. Mazzolari</a> and 
+<div class="me">G. Ragusa</div>
+ (2013): </div><a class="bibtex-title" url=http://dx.doi.org/10.1162/rest_a_00234>Spillovers from high-skill consumption to low-skill labor markets</a>, <div class="bibtex-journal">Review of Economics and Statistics,</div> <div class="bibtex-volume">95</div><div class="bibtex-number">(1)</div>, <div class="bibtex-pages">74-86</div>. <div class="bibtex-doi">DOI:10.1162/rest_a_00234</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-high-skills-low-skills-spillovers" role="button" aria-expanded="false" aria-controls="abstract-high-skills-low-skills-spillovers">
+[+]
+</a>
+<div class="collapse" id="abstract-high-skills-low-skills-spillovers">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+Census data show that since 1980 low-skill workers in the United States have been increasingly employed in the provision of non-tradeable time-intensive services – such as food preparation and cleaning – that can be broadly thought as substitutes of home production activities. Meanwhile the wage gap between this sector and the rest of the economy has shrunk. If skilled workers, with their high opportunity cost of time, demand more of these time-intensive services, then wage gains at the top of the wage distribution (such as those observed in the last three decades) are expected to raise the consumption of these services, consistent with these stylized facts. Using both consumption expenditure data and city-level data on employment and wages of workers of different skills, we provide several pieces of evidence in favor of these demand shifts, and we argue that they provide a viable explanation for the growth in wages at the bottom quantiles observed in the last fifteen years.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="">D. Mazzocchetti</a>, 
+<a class="coauthor" href="">A. Berti</a>, 
+<a class="coauthor" href="">R. Sartini</a>, 
+<a class="coauthor" href="">A. Lucarini</a>, 
+<div class="me">G. Ragusa</div>
+, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=RmOA8m8AAAAJ">M. Caroli</a> and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=FKUWgfkAAAAJ">L. Pierelli</a> (2013): </div><a class="bibtex-title" url=http://dx.doi.org/10.1111/trf.12458>Total nucleated cells as a sole predictor of distinct targets of hematopoietic potential (CD34+ cells) in cord blood units: the results of a large series analysis in autologous cord blood units</a>, <div class="bibtex-journal">Transfusion,</div> <div class="bibtex-volume">54</div><div class="bibtex-number">(5)</div>, <div class="bibtex-pages">1256-1262</div>. <div class="bibtex-doi">DOI:10.1111/trf.12458</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-stem-cels-cord" role="button" aria-expanded="false" aria-controls="abstract-stem-cels-cord">
+[+]
+</a>
+<div class="collapse" id="abstract-stem-cels-cord">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+Background: Rapid identification of eligible cord blood units (CBUs) for banking is an important issue in hematopoietic stem cell procurement. Distinct contents of CD34+ cells in CBU can contribute to identify grafts that may be banked also for unrelated transplants or limited to family-directed or autologous use.
+Study design and methods: Considering thresholds of CD34+ cell content of 3 × 10(6) , 2 × 10(6) , and 1 × 10(6) CD34+ cells, we analyzed a consecutive series of 1309 CBUs. CBUs were collected for autologous banking without any volume-based preselection criteria. Predictors of distinct content of CD34+ cells have been assessed by receiver operating characteristic (ROC) curve analysis.
+Results: Median total nucleated cell (TNC) and CD34+ cell counts of the series were 6.97 × 10(8) (range, 0.36 × 10(8) -34.9 × 10(8) ) and 1.47 × 10(6) (0-20.56 × 10(6) ). Volumes ranged from 21 to 163 mL, with a median of 73.8 mL. For the CD34+ target of 1 × 10(6) , the best predictor was TNC count with a threshold of 6.63 × 10(8) ; volume results were less predictive with a value of 68.1 mL. For CD34+ targets of 2 × 10(6) and 3 × 10(6) , ROC curves confirmed a stronger predictive power of TNC, above the collected volume, with thresholds of 7.55 × 10(8) and 8.98 × 10(8) . ROC analysis by combining all predictors (TNC, volume, TNC(2) , volume(2) , age of mothers, types of delivery, birthweight) gave worse results than TNC count alone.
+Conclusions: This analysis, carried out on a large, unrestricted CBU series, shows that TNC alone is the best predictor of distinct targets of hematopoietic potential with the chance to predict CBU potentially useful for unrelated recipients or limited for family-directed or autologous use.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<div class="me">G. Ragusa</div>
+ (2011): </div><a class="bibtex-title" url=http://dx.doi.org/10.1080/07474938.2011.553541>Minimum divergence, generalized empirical likelihoods, and higher order expansions</a>, <div class="bibtex-journal">Econometric Reviews,</div> <div class="bibtex-volume">30</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">406-456</div>. <div class="bibtex-doi">DOI:10.1080/07474938.2011.553541</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-mdgel" role="button" aria-expanded="false" aria-controls="abstract-mdgel">
+[+]
+</a>
+<div class="collapse" id="abstract-mdgel">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+This paper studies the Minimum Divergence (MD) class of estimators for econometric models specified through moment restrictions. We show that MD estimators can be obtained as solutions to a computationally tractable optimization problem. This problem is similar to the one solved by the Generalized Empirical Likelihood estimators of Newey and Smith (2004), but it is equivalent to it only for a subclass of divergences. The MD framework provides a coherent testing theory: tests for overidentification and parametric restrictions in this framework can be interpreted as semiparametric versions of Pearson-type goodness of fit tests. The higher order properties of MD estimators are also studied and it is shown that MD estimators that have the same higher order bias as the Empirical Likelihood (EL) estimator also share the same higher order Mean Square Error and are all higher order efficient. We identify members of the MD class that are not only higher order efficient, but, unlike the EL estimator, well behaved when the moment restrictions are misspecified.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div>

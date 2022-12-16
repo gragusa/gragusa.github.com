@@ -1,0 +1,145 @@
+---
+title: "Monetary policy factors"
+comments: false
+---
+
+
+
+{{< ai open-data >}} This page contains the monetary policy factors constructed using the procedure in [Altavilla, Brugnolini, Gürkaynak, Motto, and Ragusa (2019) (ABGMR)](https://doi.org/10.1016/j.jmoneco.2019.08.016).
+
+The factors are extracted from the [Euro Area Monetary Policy Event-Study Database](https://www.ecb.europa.eu/pub/pdf/annex/Dataset_EA-MPD.xlsx) and rotated to provide information about different channels of conventional and unconventional monetary policy. A detailed discussion of the factors rotation and the identification strategy is in the appendix of [(ABGMR){{< ai open-access >}}](https://doi.org/10.1016/j.jmoneco.2019.08.016).
+
+These three [vox.org](vox.org) articles might also be useful:
+
+1. [The Euro Area Monetary Policy Event-Study Database](https://voxeu.org/article/euro-area-monetary-policy-event-study-database) 
+
+2. [Monetary policy in action: Multiple dimensions of ECB policy communication and their financial market effects](https://voxeu.org/article/dimensions-ecb-policy-communication-and-their-financial-market-effects)
+
+3. [Financial market reactions to monetary policy signal](https://voxeu.org/article/financial-market-reactions-monetary-policy-signals)
+
+## Downloads
+
+The factors are in two distinct `csv` files:
+
+- `press_release_factors_YYYY-MM-DD.csv`
+
+- `press_conference_factors_YYYY-MM-DD.csv`
+
+The suffix `YYYY-MM-DD` in the filename denotes the last GC's surprises used in the factor extraction. 
+
+```{r}
+#| results: 'asis'
+#| message: false
+#| warning: false
+#| echo: false
+
+
+library(dplyr)
+library(kableExtra)
+pathf <- "../factors/data/"
+pr <- dir("../factors/data", pattern="^press_release")
+pc <- dir("../factors/data", pattern="^press_conference")
+f_pr <- f_pc <- NULL
+
+for (f in pr) {
+  ff <- readr::read_csv(paste0(pathf, f))
+  ff$lgc <- last(ff$date)
+  f_pr <- rbind(f_pr, ff)
+}
+
+for (f in pc) {
+  ff <- readr::read_csv(paste0(pathf, f))
+  ff$lgc <- last(ff$date)
+  f_pc <- rbind(f_pc, ff)
+}
+
+s_pr <- split(f_pr$target, f_pr$lgc)
+s_pc_timing <- split(f_pc$timing, f_pc$lgc)
+s_pc_fg <- split(f_pc$fg, f_pc$lgc)
+s_pc_qe <- split(f_pc$qe, f_pc$lgc)
+
+upr <- unique(f_pr$lgc)
+upc <- unique(f_pc$lgc)
+
+lg <- sort(unique(c(upr, upc)), decreasing = T)
+
+fr <- paste0("data/press_release_factors_", lg,'.csv')
+fc <- paste0("data/press_conference_factors_", lg, '.csv')
+
+url_fr <- paste0("<a class='release-link' url=",fr,">download</a>")
+url_fc <- paste0("<a class='release-link' url=",fc,">download</a>")
+
+tooltip_left = paste0("Press release factor - Last GC: ", lg)
+tooltip_right = paste0("Press conference factors - Last GC: ", lg)
+
+fac_tbl <- data.frame(
+  #`Last GC` = lg,
+  `Press Release factors` =
+    text_spec(
+      lg,
+      link = fr,
+      format = "html",
+      background = "",
+      color = "#495057",
+      extra_css = "text-decoration: none",
+      popover = spec_tooltip(position = "auto", title = tooltip_left)
+    ),
+  `Press Conference factors` =
+    text_spec(
+      lg,
+      link = fc,
+      format = "html",
+      background = "",
+      color = "#495057",
+      extra_css = "text-decoration: none",
+      popover = spec_tooltip(position = "auto", title = tooltip_right)
+    ),
+`Target` = "",
+`Timing` = "",
+`FG` = "",
+`QE` = "")
+
+
+
+fac_tbl %>%
+  kbl(
+    escape = F,
+    booktabs = T,
+    full_width = F,
+    align = "c",
+    col.names = c(
+      #        "Last GC",
+      "Press release",
+      "Press conference",
+      "Target",
+      "Timing",
+      "FG",
+      "QE"
+    )
+  ) %>%
+  kable_styling(
+    bootstrap_options = "striped",
+    full_width = F,
+    position = "left",
+    fixed_thead = T
+  ) %>%
+  add_header_above(c("Download" = 2, " " = 4)) %>%
+  column_spec(3, "a", image = spec_plot(s_pr, same_lim = TRUE)) %>%
+  column_spec(4, image = spec_plot(s_pc_timing, same_lim = TRUE)) %>%
+  column_spec(5, image = spec_plot(s_pc_fg, same_lim = TRUE)) %>%
+  column_spec(6, image = spec_plot(s_pc_qe, same_lim = TRUE), width = ".4cm")
+
+```
+
+
+
+#### Notes
+
+1. The factors used by [ABMGR](https://doi.org/10.1016/j.jmoneco.2019.08.016) are:
+
+    - [press\_release\_factors\_2018-09-13.csv](data/press_release_factors_2018-09-13.csv)
+    - [press\_conference\_factors\_2018-09-13.csv](data/press_conference_factors_2018-09-13.csv)
+
+    There is a difference between the factors used in [ABMGR](https://doi.org/10.1016/j.jmoneco.2019.08.016) and the one you can download from this page. The difference is due to a data revision. The 1-month surprise for the Governing Council of September 4, 2014, has been revised to reflect a stale quote. This revision appeared first in the EA-MDP of January 2022.
+
+2. The factors are normalized as in [ABMGR](https://doi.org/10.1016/j.jmoneco.2019.08.016). More specifically, the `target` and the `timing` factors are normalized to have _unit effect_ on the 1-month and 6-month OIS surprises, respectively; the `fg`  and `qe`  factors are normalized to have a unit effect on the 2-year and the 10-year yields, respectively. 

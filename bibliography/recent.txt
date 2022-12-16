@@ -1,0 +1,52 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a> and 
+<div class="me">G. Ragusa</div>
+ (2021): </div><a class="bibtex-title" url=https://link.springer.com/article/10.1007/s10614-021-10170-1>Euro Area Deflationary Pressure Index</a>, <div class="bibtex-journal">Computational Economics,</div> <div class="bibtex-volume">60</div>, <div class="bibtex-pages">883-900</div>. <div class="bibtex-doi">DOI:10.1007/s10614-021-10170-1</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-brugnolini2021euro" role="button" aria-expanded="false" aria-controls="abstract-brugnolini2021euro">
+[+]
+</a>
+<div class="collapse" id="abstract-brugnolini2021euro">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We focus on forecasting the probability that euro-area inflation will fall into one of three intervals by employing an ordered multinomial model augmented with macroeconomic variables. We directly forecast the probability that the expected euro area HICP price index inflation rate (12-month percent changes) over the next 12 and 24 months will be less than 1.5 percent, exceed 2 percent, or be between these two values. The model includes many predictors, and deal with dimensionality issues by an approach which mixes factor models with Bayesian shrinkage. Our results show that macroeconomic variables’ inclusion improves the model’s forecast quality, especially at the longer horizon considered. The Deflationary Pressure Index coincides with the probability that inflation is below 1.5 percent on average in the next 24 months, and it is useful as a policy monitoring tool.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm " href="inflazione.pdf" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Motto</a> and 
+<div class="me">G. Ragusa</div>
+ (2019): </div><a class="bibtex-title" url=https://doi.org/10.1016/j.jmoneco.2019.08.016>Measuring Euro Area Monetary Policy</a>, <div class="bibtex-journal">Journal of Monetary Economics,</div> <div class="bibtex-volume">108</div>, <div class="bibtex-pages">162-179</div>. <div class="bibtex-doi">DOI:10.1016/j.jmoneco.2019.08.016</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-measuring" role="button" aria-expanded="false" aria-controls="abstract-measuring">
+[+]
+</a>
+<div class="collapse" id="abstract-measuring">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We map ECB policy communication into yield curve changes and study the information flow on policy dates. A byproduct is the publicly available Euro Area Monetary Policy Event-Study Database (EA-MPD), containing intraday asset price changes. We find that Policy Target, Forward Guidance and Quantitative Easing factors capture about all the variation in the yield curve, with different factors appearing in the windows covering the policy decision announcement and the press conference, and having time-varying variance shares. We study sovereign yields, exchange rates, stock prices, persistence of effects and response asymmetry. Our methodology can be implemented for any policy-related event.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div>

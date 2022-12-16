@@ -1,0 +1,12 @@
+# {{< iconify logos julia size=2x >}}  Packages 
+
+**[CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl)** | HAC Covariance Matrix Estimation
+
+**[BayesianTools.jl](https://github.com/gragusa/BayesianTools.jl)** | Utilities for Monte Carlo Markov Chain simulations 
+
+**[Divergences.jl](https://github.com/gragusa/Divergences.jl)** | Fast evaluation of divergences 
+
+**[Genoud.jl](https://github.com/gargusa/Genoud.jl)** | Genetic optimization using derivatives
+
+
+

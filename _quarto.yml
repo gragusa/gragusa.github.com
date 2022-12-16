@@ -1,0 +1,56 @@
+project:
+  type: website
+  pre-render: bibliography/makebib.py
+  preview:
+    port: 7875
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  render:
+    - "*.qmd"
+
+freeze: true 
+
+website:
+  title: "Giuseppe Ragusa"
+  site-url: https://gragusa.org
+  repo-url: "https://github.com/gragusa/"
+  description: ""
+  favicon: favicon.png
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@gragusa"
+  navbar:
+    title: false
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "CV"
+        href: gragusa_cv.pdf
+      - text: "Papers"
+        href: papers
+      - text: "Code"
+        href: code
+      - text: "Data"
+        href: factors
+      - text: "Teaching"
+        href: teaching
+      - text: "Blog"
+        href: blog.html
+      - icon: rss
+        href: blog.xml
+  
+  page-footer:
+    left: Giuseppe Ragusa  <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    # right: |      
+    #   <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) 
+    #   {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span>
+
+format:
+  html:
+    theme: [sandstone, _variables.scss, _custom.scss]
+    css: styles.css
+    code-link: true
+    footnotes-hover: true

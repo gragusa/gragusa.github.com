@@ -1,0 +1,73 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2015): </div><a class="bibtex-title" url=http://dx.doi.org/10.1093/acprof:oso/9780198729853.003.0010>Unexplored dimensions of discrimination in Europe: Religion, homosexuality and physical appearance</a>, in <div class="bibtex-booktitle">Unexplored Dimensions of Discrimination</div>, edited by <div class="bibtex-editor">T. Boeri, E. Patacchini, and G. Peri</div>, <div class="bibtex-publisher">Oxford University Press</div>.  <div class="bibtex-doi">DOI:10.1093/acprof:oso/9780198729853.003.0010</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unuxplored-discrimination-book" role="button" aria-expanded="false" aria-controls="abstract-unuxplored-discrimination-book">
+[+]
+</a>
+<div class="collapse" id="abstract-unuxplored-discrimination-book">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=hDWPjWwAAAAJ">P. Naticchioni</a> and 
+<div class="me">G. Ragusa</div>
+ (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1007/978-3-319-05909-9_6>Information Technology and Labor Market Polarization in Europe</a>, in <div class="bibtex-booktitle">Wealth, Income Inequalities, and Demography</div>, edited by <div class="bibtex-editor">L. Paganetto</div>, <div class="bibtex-publisher">Springer Science + Business Media</div>.  <div class="bibtex-doi">DOI:10.1007/978-3-319-05909-9_6</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-ict-labor-market" role="button" aria-expanded="false" aria-controls="abstract-ict-labor-market">
+[+]
+</a>
+<div class="collapse" id="abstract-ict-labor-market">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+The US labor market has become increasingly polarized both in terms of jobs and wages, and the routinization explanation is well established for these trends. Recent papers have found job polarization patterns also in Europe, while few evidence is available for wages. The goal of the paper is to investigate the dynamics of unconditional and conditional—on technology—wages in Europe, using industry (EU KLEMS) data. As for unconditional wages, there are no wage polarization trends at work, as the wage structure is broadly constant over time. For the conditional polarization, we investigate the impact of ICT intensity on wages and hours worked by three skill groups by education levels. Our analysis does not provide evidence supporting the conditional polarization of wages, while we detect job polarization trends.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<div class="me">G. Ragusa</div>
+ (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1002/9781118771051.ch11>Approximate Bayesian Inference in Models Defined Through Estimating Equations</a>, in <div class="bibtex-booktitle">Bayesian Inference in the Social Sciences</div>, edited by <div class="bibtex-editor">I. Jeliazkov and X. S. Yang</div>, <div class="bibtex-publisher">John Wiley &amp; Sons, Inc.</div>.  <div class="bibtex-doi">DOI:10.1002/9781118771051.ch11</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-bayesian-estimating-equations" role="button" aria-expanded="false" aria-controls="abstract-bayesian-estimating-equations">
+[+]
+</a>
+<div class="collapse" id="abstract-bayesian-estimating-equations">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm " href="approxbayes.pdf" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div>

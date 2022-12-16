@@ -1,0 +1,98 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=hDWPjWwAAAAJ">P. Naticchioni</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=OaXMzeYAAAAJ">R. Massari</a> (2014): </div><a class="bibtex-title" url=http://repec.iza.org/dp8465.pdf>Unconditional and Conditional Wage Polarization in Europe</a>, <div class="bibtex-journal">Discussion Paper Series, Forschungsinstitut zur Zukunft der Arbeit (IZA), No. 8465,</div> <div class="bibtex-volume"></div>.
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-cond-uncond-polarization" role="button" aria-expanded="false" aria-controls="abstract-cond-uncond-polarization">
+[+]
+</a>
+<div class="collapse" id="abstract-cond-uncond-polarization">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+This paper investigates the dynamics of the distribution of unconditional and conditional -on technology—wages in Europe, using both industry and individual level data for the period 1995-2007. We find that the unconditional wage distribution shows scant signs of polariza- tion in Europe. On the other hand, the effect of technology is more nuanced. At the industry level, technological changes have an effect on polarization of jobs, but not on polarization of wages. At the individual level, we use a counterfactual distributional analysis which accounts for the heterogeneity of tasks across occupations, and we find only mild evidence of wage polarization. Technology affects the lower and upper part of the wage distribution in different ways, with service tasks affecting the lower quantiles and abstract tasks affecting the higher ones.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qnCATE8AAAAJ">R. Gallant</a> and 
+<div class="me">G. Ragusa</div>
+ (2014): </div><a class="bibtex-title" url=https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9692>Generalized Method of Moments with latent variables</a>, <div class="bibtex-journal">CEPR discussion paper, No. 9692,</div> <div class="bibtex-volume"></div>.
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-gmm-with-latent" role="button" aria-expanded="false" aria-controls="abstract-gmm-with-latent">
+[+]
+</a>
+<div class="collapse" id="abstract-gmm-with-latent">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+The contribution of generalized method of moments (Hansen and Singleton, 1982) was to allow frequentist inference regarding the parameters of a nonlinear structural model without having to solve the model. Provided there were no latent variables. The contribution of this paper is the same. With latent variables.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=QCwoE8UAAAAJ">F. Mazzolari</a> and 
+<div class="me">G. Ragusa</div>
+ (2012): </div><a class="bibtex-title" url=https://www.iza.org/publications/dp/6993/time-limits-the-effects-on-welfare-use-and-other-consumption-smoothing-mechanisms>Time limits: The effects on welfare use and other consumption-smoothing mechanisms</a>, <div class="bibtex-journal">Discussion Paper Series, Forschungsinstitut zur Zukunft der Arbeit (IZA), No. 6993,</div> <div class="bibtex-volume"></div>.
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-time-limits" role="button" aria-expanded="false" aria-controls="abstract-time-limits">
+[+]
+</a>
+<div class="collapse" id="abstract-time-limits">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+We use data from the Survey of Income and Program Participation covering the period 1989- 2006 to investigate the impact that time limits on receipt of Temporary Assistance for Needy Families have on female-headed family outcomes, including welfare use, employment and living arrangements. The effects of time limits depend on the stock of remaining months of eligibility, which in turn depends on the state time limit and on family’s welfare use since the policy was implemented. Since the latter is potentially endogenous to current outcomes, we form a prediction of remaining eligibility based on state rules and observable family characteristics. For families who are predicted to have hit the limit, we find evidence of enforcement of the policy, which causes monthly income from welfare to drop by an average of \$250. This loss is not offset by increases in other income sources: not only there is no significant change in earnings (despite a sizable increase in the likelihood that the mother works), but also income from other transfer programs (such as SSI and Food Stamps) decreases – resulting in increasing rates of deep poverty among these families. Additional analyses suggest that doubling up is a way for families who timed out of welfare to share housekeeping expenses.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<div class="me">G. Ragusa</div>
+ (2011): </div><a class="bibtex-title" url=>Bayesian likelihoods for moment condition models</a>, <div class="bibtex-journal">mimeo,</div> <div class="bibtex-volume"></div>.
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-bayesian-moment-condition" role="button" aria-expanded="false" aria-controls="abstract-bayesian-moment-condition">
+[+]
+</a>
+<div class="collapse" id="abstract-bayesian-moment-condition">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+Bayesian inference in moment condition models is difficult to implement. For these models, a posterior distribution cannot be calculated because the likelihood function has not been fully specified. In this paper, we obtain a class of likelihoods by formal Bayesian calculations that take into account the semiparametric nature of the problem. The likelihoods are derived by integrating out the nuisance parameters with respect to a maximum entropy tilted prior on the space of distribution. The result is a unification that uncovers a mapping between priors and likelihood functions. We show that there exist priors such that the likelihoods are closely connected to Generalized Empirical Likelihood (GEL) methods.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div>

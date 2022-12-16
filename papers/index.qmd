@@ -1,0 +1,59 @@
+---
+title: "Publications"
+comments: false
+---
+
+## {{< fa newspaper >}} Articles in journals
+
+```{r}
+#| results: 'asis'
+#| echo: false
+library(readtext)
+a <- readtext("../bibliography/articles.txt")
+cat("\`\`\`{=html}\n")
+cat(a[1,2])
+cat("\n\`\`\`")
+```
+
+## {{< fa book >}} Articles in books
+```{r}
+#| results: 'asis'
+#| echo: false
+library(readtext)
+a <- readtext("../bibliography/incollections.txt")
+cat("\`\`\`{=html}\n")
+cat(a[1,2])
+cat("\n\`\`\`")
+```
+## {{< fa wrench >}} Working papers
+```{r}
+#| results: 'asis'
+#| echo: false
+library(readtext)
+a <- readtext("../bibliography/wp.txt")
+cat("\`\`\`{=html}\n")
+cat(a[1,2])
+cat("\n\`\`\`")
+```
+## {{< fa briefcase >}} Other writings
+
+```{r}
+#| results: 'asis'
+#| echo: false
+library(readtext)
+a <- readtext("../bibliography/pol.txt")
+cat("\`\`\`{=html}\n")
+cat(a[1,2])
+cat("\n\`\`\`")
+```
+
+## In italiano
+```{r}
+#| results: 'asis'
+#| echo: false
+library(readtext)
+a <- readtext("../bibliography/polit.txt")
+cat("\`\`\`{=html}\n")
+cat(a[1,2])
+cat("\n\`\`\`")
+```

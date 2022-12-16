@@ -1,0 +1,21 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Z4QMV08AAAAJ">N. Borri</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=Ji3g0HEAAAAJ">S. Nisticò</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=-QpXw7gAAAAJ">P. Reichlin</a> (2014): </div><div class="bibtex-title">Cambiare l’Irpef pensando al lavoro, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://www.lavoce.info/archives/17083/aliquote-irpef-tassazione-sul-lavoro/">lavoce.info</a>.</div> 
+<div>
+
+
+
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Z4QMV08AAAAJ">N. Borri</a>, 
+<a class="coauthor" href="">G. Di Vaio</a> and 
+<div class="me">G. Ragusa</div>
+ (2012): </div><div class="bibtex-title">I NUMERI DELL’ITALIA SOSTENIBILE, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://www.lavoce.info/archives/27462/i-numeri-dellitalia-sostenibile/">lavoce.info</a>.</div> 
+<div>
+
+
+

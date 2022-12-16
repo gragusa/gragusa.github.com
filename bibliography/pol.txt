@@ -1,0 +1,43 @@
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Motto</a> and 
+<div class="me">G. Ragusa</div>
+ (2020): </div><div class="bibtex-title">Financial market reactions to monetary policy signal, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://voxeu.org/article/financial-market-reactions-monetary-policy-signals">voxeu.org</a>.</div> 
+<div>
+
+
+
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Motto</a> and 
+<div class="me">G. Ragusa</div>
+ (2019): </div><div class="bibtex-title">The Euro Area Monetary Policy Event-Study Database, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://voxeu.org/article/euro-area-monetary-policy-event-study-database">voxeu.org</a>.</div> 
+<div>
+
+
+
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Motto</a> and 
+<div class="me">G. Ragusa</div>
+ (2019): </div><div class="bibtex-title">Dimensions of ECB policy communication and their financial market effects, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://voxeu.org/article/dimensions-ecb-policy-communication-and-their-financial-market-effects">voxeu.org</a>.</div> 
+<div>
+
+
+
+<div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2012): </div><div class="bibtex-title">Unexplored dimensions of discrimination in Italy, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://voxeu.org/article/unexplored-dimensions-discrimination-italy">voxeu.org</a>.</div> 
+<div>
+
+
+
