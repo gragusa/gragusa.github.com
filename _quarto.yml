@@ -10,12 +10,13 @@ project:
   render:
     - "*.qmd"
 
-freeze: true 
+execute:
+  freeze: auto
 
 website:
   title: "Giuseppe Ragusa"
   site-url: https://gragusa.org
-  repo-url: "https://github.com/gragusa/"
+  repo-url: "https://github.com/gragusa.github.com/"
   description: ""
   favicon: favicon.png
   open-graph:
