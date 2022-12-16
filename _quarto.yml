@@ -17,7 +17,7 @@ website:
   title: "Giuseppe Ragusa"
   site-url: https://gragusa.org
   repo-url: "https://github.com/gragusa.github.com/"
-  description: ""
+  description: "My new website"
   favicon: favicon.png
   open-graph:
     locale: en_US
