@@ -1,11 +1,11 @@
 - title: Econometria 1
   description: "A basic econometric course, but in Italian"
   university: Sapienza University of Rome
-  url: https://econometria.classes.gragusa.org/
+  url: https://econometria.corsi.gragusa.org/
   logo: logo/econometria1.png
   semester:
   - name: Spring 2023
-    url: https://econometria.classes.gragusa.org/
+    url: https://econometria.corsi.gragusa.org/
 
 
 - title: Health Econometrics
@@ -13,7 +13,7 @@
   university: Sapienza University of Rome
   logo: logo/healthmetrics.png
   number: 
-  url: https://heathmetrics.classes.gragusa.org/
+  url: https://healthmetrics.classes.gragusa.org/
   semester:
   - name: Spring 2023
-    url: https://heathmetrics.classes.gragusa.org/
+    url: https://healthmetrics.classes.gragusa.org/
