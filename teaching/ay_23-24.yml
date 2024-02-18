@@ -1,0 +1,30 @@
+- title: Econometria | 1018133
+  description: "L'obiettivo del corso è quello di introdurre gli studenti allo studio dell'econometria mediante un approccio prevalentemente applicato. Sebbene il corso si sofferma sia sugli aspetti teorici sia su quelli pratici della disciplina, l'enfasi è sulla comprensione intuitiva dei concetti fondamentali della materia e sulla loro applicazione empirica su temi microeconomici, macroeconomici e finanziari."
+  university: Sapienza University of Rome
+  url: https://gragusa.org/econometria
+  logo: logo/econometria.png
+  semester:
+  - name: Spring 2024
+    url: https://gragusa.org/econometria
+
+- title: Advanced Econometrics
+  description: "The course provides a comprehensive coverage of classical econometric theory alongside its contemporary applications in empirical analysis. Central to the course is the exploration of methodologies for estimating causal relationships among economic variables and constructing forecasts in time series.
+
+The course has a theoretical and an empirical component. The theoretical part explores the asymptotic justification of many estimators routinely used to estimate the parameters of econometric models. The applied one applies these techniques to real data using Python."
+  university: Sapienza University of Rome
+  logo: logo/advmetrics.png
+  url: https://gragusa.org/advmetrics
+  number: 10606494
+  semester:
+  - name: Spring 2024
+    url: https://gragusa.org/advmetrics
+
+- title: Computational Tools in Macroeconometrics
+  description: "The course covers the main computational aspects of modern econometrics tools when applied to macroeconomic."
+  university: Sapienza University of Rome
+  logo: logo/comptools.png
+  url: https://gragusa.org/comptools
+  number: AAF2351
+  semester:
+  - name: Spring 2024
+    url: https://gragusa.org/comptools
