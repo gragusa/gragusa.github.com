@@ -1,19 +1,18 @@
 - title: Econometria | 1018133
   description: "A basic econometric course, but in Italian"
   university: Sapienza University of Rome
-  url: https://econometria.corsi.gragusa.org/
   logo: logo/econometria1.png
+  number: 1017084
   semester:
   - name: Spring 2023
-    url: https://econometria.corsi.gragusa.org/
+    
 
 
 - title: Health Econometrics
   description: "Because econometrics can cure you!"
   university: Sapienza University of Rome
   logo: logo/healthmetrics.png
-  number: 
-  url: https://healthmetrics.classes.gragusa.org/
+  number: 10592238
   semester:
   - name: Spring 2023
-    url: https://healthmetrics.classes.gragusa.org/
+    
