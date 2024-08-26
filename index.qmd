@@ -15,13 +15,15 @@ about:
 :::{#gr-presentation}
 {{< fa building-columns >}} I am an Associate Professor of Economics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) at [Sapienza the University of Rome](https://www.uniroma1.it/).
 
+I am the coordinator of the [Ph.D. in Economics](https://phd.uniroma1.it/web/ECONOMICS_nD3495_EN.aspx) at [Sapienza the University of Rome](https://www.uniroma1.it/). 
+
 I am also a guest lecturer at the [London Business School](https://www.london.edu).
 
-Before joining the Sapienza University of Rome, I held tenure-track positions at Rutgers University, the University of California, Irvine, Luiss University, and the University of Pisa. 
+Before joining the [Sapienza the University of Rome](https://www.uniroma1.it/), I held tenure-track positions at [Rutgers University](https://economics.rutgers.edu/), the [University of California, Irvine](https://www.economics.uci.edu), Luiss University, and the University of Pisa. 
 
 From 2015 to 2017, I was a Senior Economist at the Monetary Strategy Division of the  European Central Bank. 
 
-{{< fa graduation-cap >}} I received my Ph.D. in Economics from the University of California, San Diego. My undergraduate education is from Bocconi University. 
+{{< fa graduation-cap >}} I received my Ph.D. in Economics from the [University of California, San Diego](https://economics.ucsd.edu). My undergraduate education is from Bocconi University. 
 
 {{< fa book-open-reader >}} My most recent research interests include: time series, economic forecasting, approximate bayesian inference, and machine learning applications to economics and finance.
 
