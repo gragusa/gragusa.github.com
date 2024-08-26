@@ -1,13 +1,114 @@
 <div class="bibtex-entry">
 <div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=Mt7AQGoAAAAJ">F. Biagi</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=hDWPjWwAAAAJ">P. Naticchioni</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=RD8MWGUAAAAJ">C. Vittori</a> (2018): </div><a class="bibtex-title" url=https://doi.org/10.1007/978-3-319-78420-5_4>Routinization and the Labour Market: Evidence from European Countries</a>, in <div class="bibtex-booktitle">Digitized Labor: The Impact of the Internet on Employment</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">Springer International Publishing</div>.  <div class="bibtex-doi">DOI:10.1007/978-3-319-78420-5_4</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-Biagi2018" role="button" aria-expanded="false" aria-controls="abstract-Biagi2018">
+[+]
+</a>
+<div class="collapse" id="abstract-Biagi2018">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+In this chapter, we analyse the routinization process in European countries, using the longitudinal component of the EU Survey on Income and Living Conditions (SILC). Our findings confirm that routine jobs and the routine intensity of jobs are decreasing in time. Further, we study the determinants of routinization, using the EU-SILC data, and find that young individuals are more likely to hold routine jobs, as are workers with lower education or those employed in temporary jobs. This evidence applies for overall Europe as well as for different groups of countries. Finally, routinization represents a driver of unemployment inflows: individuals in routine jobs display, ceteris paribus, a higher probability to become unemployed: a one standard deviation increase in the RTI index entails a 10{\%} increase of getting into unemployment.
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
 <div class="me">G. Ragusa</div>
  and 
-<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2015): </div><a class="bibtex-title" url=http://dx.doi.org/10.1093/acprof:oso/9780198729853.003.0010>Unexplored dimensions of discrimination in Europe: Religion, homosexuality and physical appearance</a>, in <div class="bibtex-booktitle">Unexplored Dimensions of Discrimination</div>, edited by <div class="bibtex-editor">T. Boeri, E. Patacchini, and G. Peri</div>, <div class="bibtex-publisher">Oxford University Press</div>.  <div class="bibtex-doi">DOI:10.1093/acprof:oso/9780198729853.003.0010</div>
-<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unuxplored-discrimination-book" role="button" aria-expanded="false" aria-controls="abstract-unuxplored-discrimination-book">
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2015): </div><a class="bibtex-title" url=https://doi-org.lbs.idm.oclc.org/10.1093/acprof:oso/9780198729853.003.0007>Discrimination and Labor Market Outcomes: Theoretical Mechanisms and Existing Empirical Studies</a>, in <div class="bibtex-booktitle">Unexplored Dimensions of Discrimination</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">Oxford University Press</div>.  <div class="bibtex-doi">DOI:10.1093/acprof:oso/9780198729853.003.0007</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unuxplored-discrimination-book-6" role="button" aria-expanded="false" aria-controls="abstract-unuxplored-discrimination-book-6">
 [+]
 </a>
-<div class="collapse" id="abstract-unuxplored-discrimination-book">
+<div class="collapse" id="abstract-unuxplored-discrimination-book-6">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2015): </div><a class="bibtex-title" url=https://doi-org.lbs.idm.oclc.org/10.1093/acprof:oso/9780198729853.003.0008>Exploratory Analysis for Europe: Religion and Physical Appearance</a>, in <div class="bibtex-booktitle">Unexplored Dimensions of Discrimination</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">Oxford University Press</div>.  <div class="bibtex-doi">DOI:10.1093/acprof:oso/9780198729853.003.0008</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unuxplored-discrimination-book-7" role="button" aria-expanded="false" aria-controls="abstract-unuxplored-discrimination-book-7">
+[+]
+</a>
+<div class="collapse" id="abstract-unuxplored-discrimination-book-7">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2015): </div><a class="bibtex-title" url=https://doi-org.lbs.idm.oclc.org/10.1093/acprof:oso/9780198729853.003.0009>Do Employers Discriminate Against Physical Appearance and Sexual Preference? A Field Experiment</a>, in <div class="bibtex-booktitle">Unexplored Dimensions of Discrimination</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">Oxford University Press</div>.  <div class="bibtex-doi">DOI:10.1093/acprof:oso/9780198729853.003.0009</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unuxplored-discrimination-book-8" role="button" aria-expanded="false" aria-controls="abstract-unuxplored-discrimination-book-8">
+[+]
+</a>
+<div class="collapse" id="abstract-unuxplored-discrimination-book-8">
+<div class="card card-abstract">
+<p class=bibtex-abstract-text>
+
+</p>
+
+<div class="button-span">
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Preprint
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
+Code
+</a>
+</div>
+</div>
+</div>
+</div><div class="bibtex-entry">
+<div class="bibtex-authors">
+<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
+<div class="me">G. Ragusa</div>
+ and 
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2015): </div><a class="bibtex-title" url=https://doi-org.lbs.idm.oclc.org/10.1093/acprof:oso/9780198729853.003.0010>Other Dimensions of Discrimination</a>, in <div class="bibtex-booktitle">Unexplored Dimensions of Discrimination</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">Oxford University Press</div>.  <div class="bibtex-doi">DOI:10.1093/acprof:oso/9780198729853.003.0010</div>
+<a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unuxplored-discrimination-book-9" role="button" aria-expanded="false" aria-controls="abstract-unuxplored-discrimination-book-9">
+[+]
+</a>
+<div class="collapse" id="abstract-unuxplored-discrimination-book-9">
 <div class="card card-abstract">
 <p class=bibtex-abstract-text>
 
@@ -27,7 +128,7 @@ Code
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=hDWPjWwAAAAJ">P. Naticchioni</a> and 
 <div class="me">G. Ragusa</div>
- (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1007/978-3-319-05909-9_6>Information Technology and Labor Market Polarization in Europe</a>, in <div class="bibtex-booktitle">Wealth, Income Inequalities, and Demography</div>, edited by <div class="bibtex-editor">L. Paganetto</div>, <div class="bibtex-publisher">Springer Science + Business Media</div>.  <div class="bibtex-doi">DOI:10.1007/978-3-319-05909-9_6</div>
+ (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1007/978-3-319-05909-9_6>Information Technology and Labor Market Polarization in Europe</a>, in <div class="bibtex-booktitle">Wealth, Income Inequalities, and Demography</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">Springer Science + Business Media</div>.  <div class="bibtex-doi">DOI:10.1007/978-3-319-05909-9_6</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-ict-labor-market" role="button" aria-expanded="false" aria-controls="abstract-ict-labor-market">
 [+]
 </a>
@@ -50,7 +151,7 @@ Code
 </div><div class="bibtex-entry">
 <div class="bibtex-authors">
 <div class="me">G. Ragusa</div>
- (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1002/9781118771051.ch11>Approximate Bayesian Inference in Models Defined Through Estimating Equations</a>, in <div class="bibtex-booktitle">Bayesian Inference in the Social Sciences</div>, edited by <div class="bibtex-editor">I. Jeliazkov and X. S. Yang</div>, <div class="bibtex-publisher">John Wiley &amp; Sons, Inc.</div>.  <div class="bibtex-doi">DOI:10.1002/9781118771051.ch11</div>
+ (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1002/9781118771051.ch11>Approximate Bayesian Inference in Models Defined Through Estimating Equations</a>, in <div class="bibtex-booktitle">Bayesian Inference in the Social Sciences</div>, edited by <div class="bibtex-editor"></div>, <div class="bibtex-publisher">John Wiley &amp; Sons, Inc.</div>.  <div class="bibtex-doi">DOI:10.1002/9781118771051.ch11</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-bayesian-estimating-equations" role="button" aria-expanded="false" aria-controls="abstract-bayesian-estimating-equations">
 [+]
 </a>

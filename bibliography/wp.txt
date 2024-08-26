@@ -26,7 +26,7 @@ Code
 </div><div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a>, 
-<a class="coauthor" href="https://scholar.google.com/citations?user=qnCATE8AAAAJ">R. Gallant</a> and 
+<a class="coauthor" href="">R. Gallant</a> and 
 <div class="me">G. Ragusa</div>
  (2014): </div><a class="bibtex-title" url=https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9692>Generalized Method of Moments with latent variables</a>, <div class="bibtex-journal">CEPR discussion paper, No. 9692,</div> <div class="bibtex-volume"></div>.
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-gmm-with-latent" role="button" aria-expanded="false" aria-controls="abstract-gmm-with-latent">

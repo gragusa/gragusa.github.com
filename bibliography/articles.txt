@@ -2,7 +2,7 @@
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a> and 
 <div class="me">G. Ragusa</div>
- (2021): </div><a class="bibtex-title" url=https://link.springer.com/article/10.1007/s10614-021-10170-1>Euro Area Deflationary Pressure Index</a>, <div class="bibtex-journal">Computational Economics,</div> <div class="bibtex-volume">60</div>, <div class="bibtex-pages">883-900</div>. <div class="bibtex-doi">DOI:10.1007/s10614-021-10170-1</div>
+ (2021): </div><a class="bibtex-title" href=https://link.springer.com/article/10.1007/s10614-021-10170-1>Euro Area Deflationary Pressure Index</a>, <div class="bibtex-journal">Computational Economics,</div> <div class="bibtex-volume"></div>, <div class="bibtex-pages">1-18</div>. <div class="bibtex-doi">DOI:10.1007/s10614-021-10170-1</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-brugnolini2021euro" role="button" aria-expanded="false" aria-controls="abstract-brugnolini2021euro">
 [+]
 </a>
@@ -13,7 +13,10 @@ We focus on forecasting the probability that euro-area inflation will fall into 
 </p>
 
 <div class="button-span">
-<a class="btn btn-info btn-sm " href="inflazione.pdf" role="button">
+<a class="btn btn-info btn-sm" href="https://link.springer.com/article/10.1007/s10614-021-10170-1" role="button">
+Paper
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
@@ -22,13 +25,12 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
-<a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
-<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
-<a class="coauthor" href="">R. Motto</a> and 
+<a class="coauthor" href="">R. Carlo Altavilla</a> and 
 <div class="me">G. Ragusa</div>
- (2020): </div><a class="bibtex-title" url=https://www.ecb.europa.eu/pub/economic-research/resbull/2020/html/ecb.rb200722~528ea64f0d.en.html>How do financial markets react to monetary policy signals?</a>, <div class="bibtex-journal">Research Bulletin,</div> <div class="bibtex-volume">73</div>.
+ (2020): </div><a class="bibtex-title" href=https://www.ecb.europa.eu/pub/economic-research/resbull/2020/html/ecb.rb200722~528ea64f0d.en.html>How do financial markets react to monetary policy signals?</a>, <div class="bibtex-journal">Research Bulletin,</div> <div class="bibtex-volume">73</div>.
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-altavilla2020financial" role="button" aria-expanded="false" aria-controls="abstract-altavilla2020financial">
 [+]
 </a>
@@ -39,6 +41,9 @@ We map ECB policy communications onto yield curve changes and study the informat
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="https://www.ecb.europa.eu/pub/economic-research/resbull/2020/html/ecb.rb200722~528ea64f0d.en.html" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -48,14 +53,15 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
 <a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a>, 
-<a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
+<a class="coauthor" href="">R. Gürkaynak</a>, 
 <a class="coauthor" href="">R. Motto</a> and 
 <div class="me">G. Ragusa</div>
- (2019): </div><a class="bibtex-title" url=https://doi.org/10.1016/j.jmoneco.2019.08.016>Measuring Euro Area Monetary Policy</a>, <div class="bibtex-journal">Journal of Monetary Economics,</div> <div class="bibtex-volume">108</div>, <div class="bibtex-pages">162-179</div>. <div class="bibtex-doi">DOI:10.1016/j.jmoneco.2019.08.016</div>
+ (2019): </div><a class="bibtex-title" href=>Measuring Euro Area Monetary Policy</a>, <div class="bibtex-journal">Journal of Monetary Economics,</div> <div class="bibtex-volume">108</div>, <div class="bibtex-pages">162-179</div>. <div class="bibtex-doi">DOI:10.1016/j.jmoneco.2019.08.016</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-measuring" role="button" aria-expanded="false" aria-controls="abstract-measuring">
 [+]
 </a>
@@ -66,6 +72,9 @@ We map ECB policy communication into yield curve changes and study the informati
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -75,12 +84,13 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=ncd_LOUAAAAJ">E. Berman</a>, 
 <a class="coauthor" href="">L. Iannaccone</a> and 
 <div class="me">G. Ragusa</div>
- (2018): </div><a class="bibtex-title" url=https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/abs/from-empty-pews-to-empty-cradles-fertility-decline-among-european-catholics/290ABAEE7F54411B093541DCD5817E67>From Empty Pews To Empty Cradles: Fertility Decline Among European Catholics</a>, <div class="bibtex-journal">Journal of Demographic Economics,</div> <div class="bibtex-volume">84</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">149-187</div>. <div class="bibtex-doi">DOI:10.1017/dem.2017.22</div>
+ (2018): </div><a class="bibtex-title" href=https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/abs/from-empty-pews-to-empty-cradles-fertility-decline-among-european-catholics/290ABAEE7F54411B093541DCD5817E67>From Empty Pews To Empty Cradles: Fertility Decline Among European Catholics</a>, <div class="bibtex-journal">Journal of Demographic Economics,</div> <div class="bibtex-volume">84</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">149–187</div>. <div class="bibtex-doi">DOI:10.1017/dem.2017.22</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-berman_iannaccone_ragusa_2018" role="button" aria-expanded="false" aria-controls="abstract-berman_iannaccone_ragusa_2018">
 [+]
 </a>
@@ -91,6 +101,9 @@ Catholic countries of Europe pose a demographic puzzle -fertility is unprecedent
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/abs/from-empty-pews-to-empty-cradles-fertility-decline-among-european-catholics/290ABAEE7F54411B093541DCD5817E67" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -100,12 +113,13 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
-<a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a> and 
+<a class="coauthor" href="">R. Giacomini</a> and 
 <div class="me">G. Ragusa</div>
- (2017): </div><a class="bibtex-title" url=http://dx.doi.org/10.1002/jae.2588>Anchoring the Yield Curve Using Survey Expectations</a>, <div class="bibtex-journal">Journal of Applied Econometrics,</div> <div class="bibtex-volume">32</div><div class="bibtex-number">(6)</div>, <div class="bibtex-pages">1055-1068</div>. <div class="bibtex-doi">DOI:10.1002/jae.2588</div>
+ (2017): </div><a class="bibtex-title" href=http://dx.doi.org/10.1002/jae.2588>Anchoring the Yield Curve Using Survey Expectations</a>, <div class="bibtex-journal">Journal of Applied Econometrics,</div> <div class="bibtex-volume">32</div><div class="bibtex-number">(6)</div>, <div class="bibtex-pages">1055-1068</div>. <div class="bibtex-doi">DOI:10.1002/jae.2588</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-anchoring" role="button" aria-expanded="false" aria-controls="abstract-anchoring">
 [+]
 </a>
@@ -116,6 +130,9 @@ The dynamic behavior of the term structure of interest rates is difficult to rep
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1002/jae.2588" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -125,11 +142,12 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=Z4QMV08AAAAJ">N. Borri</a> and 
 <div class="me">G. Ragusa</div>
- (2017): </div><a class="bibtex-title" url=http://dx.doi.org/10.1561/104.00000050>Sensitivity, Moment Conditions, and the Risk-free Rate in Yogo (2006)</a>, <div class="bibtex-journal">Critical Review of Finance,</div> <div class="bibtex-volume">6</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">381-393</div>. <div class="bibtex-doi">DOI:10.1561/104.00000050</div>
+ (2017): </div><a class="bibtex-title" href=http://dx.doi.org/10.1561/104.00000050>Sensitivity, Moment Conditions, and the Risk-free Rate in Yogo (2006)</a>, <div class="bibtex-journal">Critical Review of Finance,</div> <div class="bibtex-volume">6</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">381-393</div>. <div class="bibtex-doi">DOI:10.1561/104.00000050</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-moment-conditions-sensitivity" role="button" aria-expanded="false" aria-controls="abstract-moment-conditions-sensitivity">
 [+]
 </a>
@@ -140,6 +158,9 @@ In this paper we show that results presented in the seminal paper by Yogo, A Con
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1561/104.00000050" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -149,12 +170,13 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=qnCATE8AAAAJ">R. Gallant</a>, 
 <a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a> and 
 <div class="me">G. Ragusa</div>
- (2017): </div><a class="bibtex-title" url=https://doi.org/10.1016/j.jeconom.2017.08.003>Bayesian Estimation of State Space Models Using Moment Conditions</a>, <div class="bibtex-journal">Journal of Econometrics,</div> <div class="bibtex-volume">201</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">198-211</div>. <div class="bibtex-doi">DOI:10.1016/j.jeconom.2017.08.003</div>
+ (2017): </div><a class="bibtex-title" href=https://doi.org/10.1016/j.jeconom.2017.08.003>Bayesian Estimation of State Space Models Using Moment Conditions</a>, <div class="bibtex-journal">Journal of Econometrics,</div> <div class="bibtex-volume">201</div><div class="bibtex-number">(2)</div>, <div class="bibtex-pages">198-211</div>. <div class="bibtex-doi">DOI:10.1016/j.jeconom.2017.08.003</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-bayesian-state-space" role="button" aria-expanded="false" aria-controls="abstract-bayesian-state-space">
 [+]
 </a>
@@ -165,7 +187,10 @@ We consider Bayesian estimation of state space models when the measurement densi
 </p>
 
 <div class="button-span">
-<a class="btn btn-info btn-sm " href="bliml.pdf" role="button">
+<a class="btn btn-info btn-sm" href="https://doi.org/10.1016/j.jeconom.2017.08.003" role="button">
+Paper
+</a>
+<a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
@@ -174,11 +199,12 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=sYJua10AAAAJ">I. Komunjer</a> and 
 <div class="me">G. Ragusa</div>
- (2015): </div><a class="bibtex-title" url=http://dx.doi.org/10.1017/s0266466615000158>Existence and Characterization of Conditional Density Projections</a>, <div class="bibtex-journal">Econometric Theory,</div> <div class="bibtex-volume">32</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">947-987</div>. <div class="bibtex-doi">DOI:10.1017/s0266466615000158</div>
+ (2015): </div><a class="bibtex-title" href=http://dx.doi.org/10.1017/s0266466615000158>Existence and Characterization of Conditional Density Projections</a>, <div class="bibtex-journal">Econometric Theory,</div> <div class="bibtex-volume">32</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">947-987</div>. <div class="bibtex-doi">DOI:10.1017/s0266466615000158</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-density-projection" role="button" aria-expanded="false" aria-controls="abstract-density-projection">
 [+]
 </a>
@@ -189,6 +215,9 @@ In this paper we propose primitive conditions under which a projection of a cond
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1017/s0266466615000158" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -198,12 +227,13 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
 <div class="me">G. Ragusa</div>
  and 
-<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1007/s00148-014-0533-9>Unexplored Dimensions of Discrimination in Europe: Homosexuality and Physical Appearance</a>, <div class="bibtex-journal">Journal of Population Economics,</div> <div class="bibtex-volume">28</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">1045-1073</div>. <div class="bibtex-doi">DOI:10.1007/s00148-014-0533-9</div>
+<a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2014): </div><a class="bibtex-title" href=http://dx.doi.org/10.1007/s00148-014-0533-9>Unexplored Dimensions of Discrimination in Europe: Homosexuality and Physical Appearance</a>, <div class="bibtex-journal">Journal of Population Economics,</div> <div class="bibtex-volume">28</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">1045-1073</div>. <div class="bibtex-doi">DOI:10.1007/s00148-014-0533-9</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-unexplored-discrimination-jpop" role="button" aria-expanded="false" aria-controls="abstract-unexplored-discrimination-jpop">
 [+]
 </a>
@@ -214,6 +244,9 @@ We study labor-market discrimination of individuals with  in Italy. We conduct a
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1007/s00148-014-0533-9" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -223,11 +256,12 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a> and 
 <div class="me">G. Ragusa</div>
- (2014): </div><a class="bibtex-title" url=http://dx.doi.org/10.1016/j.jeconom.2014.04.014>Theory-coherent forecasting</a>, <div class="bibtex-journal">Journal of Econometrics,</div> <div class="bibtex-volume">182</div><div class="bibtex-number">(1)</div>, <div class="bibtex-pages">145-155</div>. <div class="bibtex-doi">DOI:10.1016/j.jeconom.2014.04.014</div>
+ (2014): </div><a class="bibtex-title" href=http://dx.doi.org/10.1016/j.jeconom.2014.04.014>Theory-coherent forecasting</a>, <div class="bibtex-journal">Journal of Econometrics,</div> <div class="bibtex-volume">182</div><div class="bibtex-number">(1)</div>, <div class="bibtex-pages">145-155</div>. <div class="bibtex-doi">DOI:10.1016/j.jeconom.2014.04.014</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-theory-coherent" role="button" aria-expanded="false" aria-controls="abstract-theory-coherent">
 [+]
 </a>
@@ -238,6 +272,9 @@ We consider a method for producing multivariate density forecasts that satisfy m
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1016/j.jeconom.2014.04.014" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -247,11 +284,12 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=QCwoE8UAAAAJ">F. Mazzolari</a> and 
 <div class="me">G. Ragusa</div>
- (2013): </div><a class="bibtex-title" url=http://dx.doi.org/10.1162/rest_a_00234>Spillovers from high-skill consumption to low-skill labor markets</a>, <div class="bibtex-journal">Review of Economics and Statistics,</div> <div class="bibtex-volume">95</div><div class="bibtex-number">(1)</div>, <div class="bibtex-pages">74-86</div>. <div class="bibtex-doi">DOI:10.1162/rest_a_00234</div>
+ (2013): </div><a class="bibtex-title" href=http://dx.doi.org/10.1162/rest_a_00234>Spillovers from high-skill consumption to low-skill labor markets</a>, <div class="bibtex-journal">Review of Economics and Statistics,</div> <div class="bibtex-volume">95</div><div class="bibtex-number">(1)</div>, <div class="bibtex-pages">74-86</div>. <div class="bibtex-doi">DOI:10.1162/rest_a_00234</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-high-skills-low-skills-spillovers" role="button" aria-expanded="false" aria-controls="abstract-high-skills-low-skills-spillovers">
 [+]
 </a>
@@ -262,6 +300,9 @@ Census data show that since 1980 low-skill workers in the United States have bee
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1162/rest_a_00234" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -271,7 +312,8 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="">D. Mazzocchetti</a>, 
 <a class="coauthor" href="">A. Berti</a>, 
@@ -280,7 +322,7 @@ Code
 <div class="me">G. Ragusa</div>
 , 
 <a class="coauthor" href="https://scholar.google.com/citations?user=RmOA8m8AAAAJ">M. Caroli</a> and 
-<a class="coauthor" href="https://scholar.google.com/citations?user=FKUWgfkAAAAJ">L. Pierelli</a> (2013): </div><a class="bibtex-title" url=http://dx.doi.org/10.1111/trf.12458>Total nucleated cells as a sole predictor of distinct targets of hematopoietic potential (CD34+ cells) in cord blood units: the results of a large series analysis in autologous cord blood units</a>, <div class="bibtex-journal">Transfusion,</div> <div class="bibtex-volume">54</div><div class="bibtex-number">(5)</div>, <div class="bibtex-pages">1256-1262</div>. <div class="bibtex-doi">DOI:10.1111/trf.12458</div>
+<a class="coauthor" href="https://scholar.google.com/citations?user=FKUWgfkAAAAJ">L. Pierelli</a> (2013): </div><a class="bibtex-title" href=http://dx.doi.org/10.1111/trf.12458>Total nucleated cells as a sole predictor of distinct targets of hematopoietic potential (CD34+ cells) in cord blood units: the results of a large series analysis in autologous cord blood units</a>, <div class="bibtex-journal">Transfusion,</div> <div class="bibtex-volume">54</div><div class="bibtex-number">(5)</div>, <div class="bibtex-pages">1256-1262</div>. <div class="bibtex-doi">DOI:10.1111/trf.12458</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-stem-cels-cord" role="button" aria-expanded="false" aria-controls="abstract-stem-cels-cord">
 [+]
 </a>
@@ -294,6 +336,9 @@ Conclusions: This analysis, carried out on a large, unrestricted CBU series, sho
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1111/trf.12458" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>
@@ -303,10 +348,11 @@ Code
 </div>
 </div>
 </div>
-</div><div class="bibtex-entry">
+</div>
+<div class="bibtex-entry">
 <div class="bibtex-authors">
 <div class="me">G. Ragusa</div>
- (2011): </div><a class="bibtex-title" url=http://dx.doi.org/10.1080/07474938.2011.553541>Minimum divergence, generalized empirical likelihoods, and higher order expansions</a>, <div class="bibtex-journal">Econometric Reviews,</div> <div class="bibtex-volume">30</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">406-456</div>. <div class="bibtex-doi">DOI:10.1080/07474938.2011.553541</div>
+ (2011): </div><a class="bibtex-title" href=http://dx.doi.org/10.1080/07474938.2011.553541>Minimum divergence, generalized empirical likelihoods, and higher order expansions</a>, <div class="bibtex-journal">Econometric Reviews,</div> <div class="bibtex-volume">30</div><div class="bibtex-number">(4)</div>, <div class="bibtex-pages">406-456</div>. <div class="bibtex-doi">DOI:10.1080/07474938.2011.553541</div>
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-mdgel" role="button" aria-expanded="false" aria-controls="abstract-mdgel">
 [+]
 </a>
@@ -317,6 +363,9 @@ This paper studies the Minimum Divergence (MD) class of estimators for econometr
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="http://dx.doi.org/10.1080/07474938.2011.553541" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm disabled" href="" role="button">
 Preprint
 </a>

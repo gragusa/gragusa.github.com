@@ -1,5 +1,5 @@
 <div class="bibtex-entry">
-<div class="bibtex-authors">{{{authors}}} ({{year}}): </div><a class="bibtex-title" url={{url}}>{{title}}</a>, <div class="bibtex-journal">{{journal}},</div> <div class="bibtex-volume">{{volume}}</div>{{#has_number}}<div class="bibtex-number">({{number}})</div>{{/has_number}}{{#has_pages}}, <div class="bibtex-pages">{{pages}}</div>{{/has_pages}}.{{#has_doi}} <div class="bibtex-doi">DOI:{{doi}}</div>{{/has_doi}}
+<div class="bibtex-authors">{{{authors}}} ({{year}}): </div><a class="bibtex-title" href={{url}}>{{title}}</a>, <div class="bibtex-journal">{{journal}},</div> <div class="bibtex-volume">{{volume}}</div>{{#has_number}}<div class="bibtex-number">({{number}})</div>{{/has_number}}{{#has_pages}}, <div class="bibtex-pages">{{pages}}</div>{{/has_pages}}.{{#has_doi}} <div class="bibtex-doi">DOI:{{doi}}</div>{{/has_doi}}
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-{{ID}}" role="button" aria-expanded="false" aria-controls="abstract-{{ID}}">
 [+]
 </a>
@@ -10,6 +10,9 @@
 </p>
 
 <div class="button-span">
+<a class="btn btn-info btn-sm" href="{{url}}" role="button">
+Paper
+</a>
 <a class="btn btn-info btn-sm {{#nothas_preprint}}disabled{{/nothas_preprint}}" href="{{preprint}}" role="button">
 Preprint
 </a>

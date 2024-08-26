@@ -59,7 +59,7 @@ def getscholarid(entries):
 ## Parse Bibliography File
 # Parser
 parser = BibTexParser()
-parser.ignore_nonstandard_types = True
+parser.ignore_nonstandard_types = False
 parser.homogenize_fields = False
 parser.common_strings = True
 parser.customization = bibtexparser.customization.author
@@ -86,7 +86,7 @@ coauthors_googlescholar = json.loads(lines[0])
 
 # Split by type
 articles = list(filter(lambda d: d['type'] in ["article"], bib_database.entries))
-incollections = list(filter(lambda d: d['type'] in ["bookchapter"], bib_database.entries))
+incollections = list(filter(lambda d: d['type'] in ["bookchapt"], bib_database.entries))
 wp = list(filter(lambda d: d['type'] in ["wp"], bib_database.entries))
 pol = list(filter(lambda d: d['type'] in ["policy"], bib_database.entries))
 polit = list(filter(lambda d: d['type'] in ["policy-italian"], bib_database.entries))

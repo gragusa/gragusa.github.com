@@ -12,6 +12,7 @@
 <div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a>, 
 <a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
 <a class="coauthor" href="">R. Motto</a> and 
 <div class="me">G. Ragusa</div>
@@ -23,6 +24,7 @@
 <div class="bibtex-entry">
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=Koryc5kAAAAJ">C. Altavilla</a>, 
+<a class="coauthor" href="https://scholar.google.com/citations?user=3rier7MAAAAJ">L. Brugnolini</a>, 
 <a class="coauthor" href="https://scholar.google.com/citations?user=S2t1x2oAAAAJ">R. Gürkaynak</a>, 
 <a class="coauthor" href="">R. Motto</a> and 
 <div class="me">G. Ragusa</div>
@@ -33,9 +35,7 @@
 
 <div class="bibtex-entry">
 <div class="bibtex-authors">
-<a class="coauthor" href="https://scholar.google.com/citations?user=oTcCfoYAAAAJ">E. Patacchini</a>, 
-<div class="me">G. Ragusa</div>
- and 
+<a class="coauthor" href="">G. Eleonora Patacchini</a> and 
 <a class="coauthor" href="https://scholar.google.com/citations?user=qDXAKDkAAAAJ">Y. Zenou</a> (2012): </div><div class="bibtex-title">Unexplored dimensions of discrimination in Italy, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://voxeu.org/article/unexplored-dimensions-discrimination-italy">voxeu.org</a>.</div> 
 <div>
 

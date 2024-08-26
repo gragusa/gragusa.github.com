@@ -14,7 +14,7 @@
 <a class="coauthor" href="https://scholar.google.com/citations?user=Z4QMV08AAAAJ">N. Borri</a>, 
 <a class="coauthor" href="">G. Di Vaio</a> and 
 <div class="me">G. Ragusa</div>
- (2012): </div><div class="bibtex-title">I NUMERI DELL’ITALIA SOSTENIBILE, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://www.lavoce.info/archives/27462/i-numeri-dellitalia-sostenibile/">lavoce.info</a>.</div> 
+ (2012): </div><div class="bibtex-title">I Numeri Dell’Italia Sostenibile, </div><div class="bibtex-poljournal"><a class="bibtex-polurl" href="https://www.lavoce.info/archives/27462/i-numeri-dellitalia-sostenibile/">lavoce.info</a>.</div> 
 <div>
 
 
