@@ -37,11 +37,12 @@ The suffix `YYYY-MM-DD` in the filename denotes the last GC's surprises used in 
 library(dplyr)
 library(kableExtra)
 pathf <- "../factors/data/"
-pr <- dir("../factors/data", pattern="^press_release")
-pc <- dir("../factors/data", pattern="^press_conference")
+pr <- dir("../factors/data", pattern="^press_release_factors")
+pc <- dir("../factors/data", pattern="^press_conference_factors")
 f_pr <- f_pc <- NULL
 
 for (f in pr) {
+  #cat(f, "\n")
   ff <- readr::read_csv(paste0(pathf, f))
   ff$lgc <- last(ff$date)
   f_pr <- rbind(f_pr, ff)

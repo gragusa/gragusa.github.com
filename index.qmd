@@ -13,21 +13,21 @@ about:
 ---
 
 :::{#gr-presentation}
-{{< fa building-columns >}} I am an Associate Professor of Economics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) at [Sapienza the University of Rome](https://www.uniroma1.it/).
+{{< fa building-columns >}} I am a Professor of Econometrics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) at [Sapienza the University of Rome](https://www.uniroma1.it/).
 
-I am the coordinator of the [Ph.D. in Economics](https://phd.uniroma1.it/web/ECONOMICS_nD3495_EN.aspx) at [Sapienza the University of Rome](https://www.uniroma1.it/). 
+I am the coordinator of the [Ph.D. in Economics](https://phd.uniroma1.it/web/ECONOMICS_nD3495_EN.aspx) at [Sapienza the University of Rome](https://www.uniroma1.it/).
 
-I am also a guest lecturer at the [London Business School](https://www.london.edu).
+I am also an affiliate lecturer at the [London Business School](https://www.london.edu).
 
-Before joining the [Sapienza the University of Rome](https://www.uniroma1.it/), I held tenure-track positions at [Rutgers University](https://economics.rutgers.edu/), the [University of California, Irvine](https://www.economics.uci.edu), Luiss University, and the University of Pisa. 
+Before joining the [Sapienza the University of Rome](https://www.uniroma1.it/), I held tenure-track positions at [Rutgers University](https://economics.rutgers.edu/), the [University of California, Irvine](https://www.economics.uci.edu), Luiss University, and the University of Pisa.
 
-From 2015 to 2017, I was a Senior Economist at the Monetary Strategy Division of the  European Central Bank. 
+From 2015 to 2017, I was a Senior Economist at the Monetary Strategy Division of the  European Central Bank.
 
-{{< fa graduation-cap >}} I received my Ph.D. in Economics from the [University of California, San Diego](https://economics.ucsd.edu). My undergraduate education is from Bocconi University. 
+{{< fa graduation-cap >}} I received my Ph.D. in Economics from the [University of California, San Diego](https://economics.ucsd.edu). My undergraduate education is from Bocconi University.
 
 {{< fa book-open-reader >}} My most recent research interests include: time series, economic forecasting, approximate bayesian inference, and machine learning applications to economics and finance.
 
-{{< fa person-chalkboard >}} I teach undergraduate and graduate Econometrics, Time Series, and Machine Learning courses. These courses use Julia, R, and Python as software. 
+{{< fa person-chalkboard >}} I teach undergraduate and graduate Econometrics, Time Series, and Machine Learning courses. These courses use Julia, R, and Python as software.
 
 
 :::
@@ -37,7 +37,7 @@ On this site, I keep [my cv](gragusa_cv.pdf), a list of [my publications](papers
 
 
 
-<!-- #### {{< ai obp >}} Recent Publications 
+<!-- #### {{< ai obp >}} Recent Publications
 
 
 ```{r, recent_pub}
@@ -55,12 +55,12 @@ cat("\n\`\`\`")
 **[CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl)** | HAC Covariance Matrix Estimation
 :::
 
-**[BayesianTools.jl](https://github.com/gragusa/BayesianTools.jl)** | Utilities for Monte Carlo Markov Chain simulations 
+**[BayesianTools.jl](https://github.com/gragusa/BayesianTools.jl)** | Utilities for Monte Carlo Markov Chain simulations
 
-**[Divergences.jl](https://github.com/gragusa/Divergences.jl)** | Fast evaluation of divergences 
+**[Divergences.jl](https://github.com/gragusa/Divergences.jl)** | Fast evaluation of divergences
 
 **[Genoud.jl](https://github.com/gargusa/Genoud.jl)** | Genetic optimization using derivatives -->
 
-#### {{< ai open-data >}} Data 
+#### {{< ai open-data >}} Data
 
-**[Monetary Policy Factors](factors)** Updated monetary policy factors. 
+**[Monetary Policy Factors](factors)** Updated monetary policy factors.
