@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a85433f8d82b7186ee81d0f815f9b860.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7b450b77e64c352943fa5831dd616233.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script src="site_libs/quarto-contrib/iconify-1.0.0-beta.2/iconify-icon.min.js"></script>
@@ -131,7 +132,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -164,6 +165,10 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -216,7 +221,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block page-columns page-full column-body" id="quarto-document-content">
 
@@ -232,7 +237,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1761293312236" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1724669318537" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="thumbnail"><a href="./404.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -251,7 +256,7 @@ The page or item that you’re looking for isn’t here!
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1761293312242" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1724669318543" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
 <div class="thumbnail"><a href="./code/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -270,7 +275,29 @@ The page or item that you’re looking for isn’t here!
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1761293312258" data-listing-reading-time-sort="4" data-listing-word-count-sort="701">
+<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1757528270701" data-listing-reading-time-sort="6" data-listing-word-count-sort="1067">
+<div class="thumbnail"><a href="./factors/Untitled.pdf" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./factors/Untitled.pdf" class="no-external">Intelligenza Artificiale e Machine Learning</a>
+</h3>
+<div class="delink listing-description"><a href="./factors/Untitled.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./factors/Untitled.pdf" class="no-external">
+<div class="listing-author">
+Presentazione AI/ML
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1756921426395" data-listing-reading-time-sort="4" data-listing-word-count-sort="704">
 <div class="thumbnail"><a href="./factors/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -289,7 +316,7 @@ The page or item that you’re looking for isn’t here!
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1761293377257" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
+<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1762533068531" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
 <div class="thumbnail"><a href="./index.html" class="no-external">
 
 <img loading="lazy" src="./gr.jpg" class="thumbnail-image">
@@ -300,7 +327,7 @@ The page or item that you’re looking for isn’t here!
 <a href="./index.html" class="no-external">Giuseppe Ragusa</a>
 </h3>
 <div class="delink listing-description"><a href="./index.html" class="no-external">
-<i class="fa-solid fa-building-columns" aria-label="building-columns"></i> I am an Professor of Economics (Econometrics) at the Department of Economics and Law at Sapienza the University of Rome.
+<i class="fa-solid fa-building-columns" aria-label="building-columns"></i> I am a Professor of Econometrics at the Department of Economics and Law at Sapienza the University of Rome.
 </a></div>
 </div>
 <div class="metadata">
@@ -308,7 +335,7 @@ The page or item that you’re looking for isn’t here!
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1761293312261" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1724674914458" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="thumbnail"><a href="./papers/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -328,7 +355,7 @@ We focus on forecasting the probability that euro-area inflation will fall into 
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1761293312261" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1724669318575" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="thumbnail"><a href="./teaching/index.html" class="no-external">
 
 <p class="card-img-top"><img src="teaching/logo/econometria.png" alt="Econometria | 1018133" title="Econometria | 1018133" class="thumbnail-image card-img"/></p>
@@ -405,13 +432,14 @@ We focus on forecasting the probability that euro-area inflation will fall into 
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
