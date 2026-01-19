@@ -1,0 +1,19 @@
+- title: Econometria 
+  description: "L'obiettivo del corso è quello di introdurre gli studenti allo studio dell'econometria mediante un approccio prevalentemente applicato. Sebbene il corso si sofferma sia sugli aspetti teorici sia su quelli pratici della disciplina, l'enfasi è sulla comprensione intuitiva dei concetti fondamentali della materia e sulla loro applicazione empirica su temi microeconomici, macroeconomici e finanziari."
+  university: Sapienza University of Rome
+  url: https://gragusa.org/econometria
+  logo: logo/econometria256.png
+  number: 1018133
+  semester:
+  - name: Spring 2026
+    url: https://gragusa.org/econometria
+
+- title: Intermediate Econometrics 
+  description: "A master's-level course providing a rigorous foundation in theoretical and applied econometric analysis. Part I covers cross-sectional and panel data econometrics, focusing on asymptotic theory, the potential outcomes framework for causal inference, classical linear regression, instrumental variables, and linear panel data models. Part II covers time series econometrics, including ARIMA models, Vector Autoregressions (VARs), Structural VARs for causal identification and policy analysis, state-space models with Kalman filter estimation, and Dynamic Factor Models for high-dimensional forecasting and macroeconomic analysis."
+  university: Sapienza University of Rome
+  url: https://gragusa.org/intermediatemetrics/
+  logo: logo/intermediate256.png
+  number: 10620843
+  semester:
+  - name: Spring 2026
+    url: https://gragusa.org/intermediatemetrics/

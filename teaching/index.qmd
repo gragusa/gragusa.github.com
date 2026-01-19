@@ -2,29 +2,27 @@
 title: "Teaching"
 description-meta: "{{< meta website.description >}}"
 listing:
-  - id: ay_22-23
-    contents: ay_22-23.yml
+  - id: current
+    contents: ay_25-26.yml
     sort: "date desc"
     template: ../html/teaching/listing.ejs
-  - id: ay_23-24
-    contents: ay_23-24.yml
-    sort: "date desc"
-    template: ../html/teaching/listing.ejs
-  
+  - id: archive
+    contents: archive.yml
+    template: ../html/teaching/archive-table.ejs
+
 page-layout: full
 toc: true
 toc-location: right
-toc-title: Academic year
+toc-title: ""
 ---
 
-## 2023–24
+## Current Courses (2025–26)
 
-:::{#ay_23-24}
+:::{#current}
 :::
 
 
+## Previously Taught
 
-## 2022–23
-
-:::{#ay_22-23}
+:::{#archive}
 :::

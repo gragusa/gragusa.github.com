@@ -1,0 +1,61 @@
+- title: Econometria
+  number: "1018133"
+  university: Sapienza University of Rome
+  year: "2024–25"
+  url: https://gragusa.org/econometria
+  semester:
+  - name: Spring 2025
+
+- title: Advanced Econometrics
+  number: "10606494"
+  university: Sapienza University of Rome
+  year: "2024–25"
+  url: https://gragusa.org/advmetrics
+  semester:
+  - name: Spring 2025
+
+- title: Computational Tools in Macroeconometrics
+  number: "AAF2351"
+  university: Sapienza University of Rome
+  year: "2024–25"
+  url: https://gragusa.org/comptools
+  semester:
+  - name: Spring 2025
+
+- title: Econometria
+  number: "1018133"
+  university: Sapienza University of Rome
+  year: "2023–24"
+  url: https://gragusa.org/econometria
+  semester:
+  - name: Spring 2024
+
+- title: Advanced Econometrics
+  number: "10606494"
+  university: Sapienza University of Rome
+  year: "2023–24"
+  url: https://gragusa.org/advmetrics
+  semester:
+  - name: Spring 2024
+
+- title: Computational Tools in Macroeconometrics
+  number: "AAF2351"
+  university: Sapienza University of Rome
+  year: "2023–24"
+  url: https://gragusa.org/comptools
+  semester:
+  - name: Spring 2024
+
+- title: Econometria
+  number: "1017084"
+  university: Sapienza University of Rome
+  year: "2022–23"
+  semester:
+  - name: Spring 2023
+
+- title: Health Econometrics
+  number: "10592238"
+  university: Sapienza University of Rome
+  year: "2022–23"
+  semester:
+  - name: Spring 2023

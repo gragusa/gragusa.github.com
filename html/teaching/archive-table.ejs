@@ -1,0 +1,28 @@
+```{=html}
+<div class="teaching-archive">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Code</th>
+                <th>Academic Year</th>
+                <th>Semester</th>
+                <th>University</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% for (const course of items) { %>
+            <% for (const semester of course.semester) { %>
+            <tr>
+                <td><% if (course.url) { %><a href="<%= course.url %>" class="course-link"><%= course.title %></a><% } else { %><%= course.title %><% } %></td>
+                <td><%= course.number %></td>
+                <td><%= course.year %></td>
+                <td><%= semester.name %></td>
+                <td><%= course.university %></td>
+            </tr>
+            <% } %>
+            <% } %>
+        </tbody>
+    </table>
+</div>
+```

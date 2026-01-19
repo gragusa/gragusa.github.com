@@ -3,7 +3,7 @@
   university: Sapienza University of Rome
   logo: logo/econometria.png
   semester:
-  - name: Spring 2024
+  - name: Spring 2025
 
 - title: Advanced Econometrics
   description: "The course provides a comprehensive coverage of classical econometric theory alongside its contemporary applications in empirical analysis. Central to the course is the exploration of methodologies for estimating causal relationships among economic variables and constructing forecasts in time series.
@@ -13,7 +13,7 @@ The course has a theoretical and an empirical component. The theoretical part ex
   logo: logo/advmetrics.png
   number: 10606494
   semester:
-  - name: Spring 2024
+  - name: Spring 2025
 
 - title: Computational Tools in Macroeconometrics
   description: "The course covers the main computational aspects of modern econometrics tools when applied to macroeconomic."
@@ -21,4 +21,4 @@ The course has a theoretical and an empirical component. The theoretical part ex
   logo: logo/comptools.png
   number: AAF2351
   semester:
-  - name: Spring 2024
+  - name: Spring 2025
