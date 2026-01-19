@@ -10,7 +10,7 @@
 <atom:link href="https://gragusa.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>My new website</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 19 Jan 2026 22:02:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 23:01:44 GMT</lastBuildDate>
 <item>
   <title>Page not found!</title>
   <link>https://gragusa.org/404.html</link>
@@ -29,7 +29,7 @@
 
  ]]></description>
   <guid>https://gragusa.org/404.html</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -51,7 +51,7 @@
 
  ]]></description>
   <guid>https://gragusa.org/code/</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -59,7 +59,7 @@
   <link>https://gragusa.org/factors/Untitled.pdf</link>
   <description><![CDATA[ undefined ]]></description>
   <guid>https://gragusa.org/factors/Untitled.pdf</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
 </item>
 <item>
   <title>Monetary policy factors</title>
@@ -4068,7 +4068,7 @@ Download
 
 </section></section> ]]></description>
   <guid>https://gragusa.org/factors/</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
 </item>
 <item>
   <title>Giuseppe Ragusa</title>
@@ -4091,8 +4091,8 @@ Download
   <div class="about-contents"><div id="gr-presentation">
 <p><i class="fa-solid fa-building-columns" aria-label="building-columns"></i> I am a Professor of Econometrics at the <a href="https://web.uniroma1.it/dip_ecodir/en">Department of Economics and Law</a> at <a href="https://www.uniroma1.it/">Sapienza the University of Rome</a>.</p>
 <p>I am the coordinator of the <a href="https://phd.uniroma1.it/web/ECONOMICS_nD3495_EN.aspx">Ph.D.&nbsp;in Economics</a> at <a href="https://www.uniroma1.it/">Sapienza the University of Rome</a>.</p>
-<p>I am also an affiliate lecturer at the <a href="https://www.london.edu">London Business School</a>.</p>
-<p>Before joining the <a href="https://www.uniroma1.it/">Sapienza the University of Rome</a>, I held tenure-track positions at <a href="https://economics.rutgers.edu/">Rutgers University</a>, the <a href="https://www.economics.uci.edu">University of California, Irvine</a>, Luiss University, and the University of Pisa.</p>
+<p>I am also an affiliated lecturer at the <a href="https://www.london.edu">London Business School</a>.</p>
+<p>Before joining <a href="https://www.uniroma1.it/">Sapienza the University of Rome</a>, I held tenure-track positions at <a href="https://economics.rutgers.edu/">Rutgers University</a>, the <a href="https://www.economics.uci.edu">University of California, Irvine</a>, Luiss University, and the University of Pisa.</p>
 <p>From 2015 to 2017, I was a Senior Economist at the Monetary Strategy Division of the European Central Bank.</p>
 <p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> I received my Ph.D.&nbsp;in Economics from the <a href="https://economics.ucsd.edu">University of California, San Diego</a>. My undergraduate education is from Bocconi University.</p>
 <p><i class="fa-solid fa-book-open-reader" aria-label="book-open-reader"></i> My most recent research interests include: time series, economic forecasting, approximate bayesian inference, and machine learning applications to economics and finance.</p>
@@ -4177,7 +4177,7 @@ Code
 
 </section> ]]></description>
   <guid>https://gragusa.org/</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
   <media:content url="https://gragusa.org/gr.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -5394,7 +5394,7 @@ Code
 </div>
 </div></section> ]]></description>
   <guid>https://gragusa.org/papers/</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
 </item>
 <item>
   <title>Teaching</title>
@@ -5404,25 +5404,25 @@ Code
 
 
 
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">2023–24</h2>
-<div id="listing-ay_23-24" class="quarto-listing quarto-listing-container-custom">
+<section id="current-courses-202526" class="level2">
+<h2 class="anchored" data-anchor-id="current-courses-202526">Current Courses (2025–26)</h2>
+<div id="listing-current" class="quarto-listing quarto-listing-container-custom">
 <div class="teaching">
     
     <div class="course-entry">
         <div class="logo">
             
-            <a href="https://gragusa.org/econometria" target="_blank"><img src="https://gragusa.org/teaching/logo/econometria.png" alt="Econometria | 1018133" title="Econometria | 1018133"></a>
+            <a href="https://gragusa.org/econometria" target="_blank"><img src="https://gragusa.org/teaching/logo/econometria256.png" alt="Econometria" title="Econometria"></a>
             
         </div>
         <div class="body">
             <p class="course-title">
                 
-                <a href="https://gragusa.org/econometria" target="_blank">Econometria | 1018133</a> 
+                <a href="https://gragusa.org/econometria" target="_blank">Econometria</a> 
                 
             </p>
             <p class="course-details">
-                <span class="course-number"></span> | 
+                <span class="course-number">1018133</span> | 
                 <span class="course-university">Sapienza University of Rome</span>
                 
             </p>
@@ -5430,7 +5430,7 @@ Code
             <ul class="course-semesters">
                 
                 
-                <li><a href="https://gragusa.org/econometria"><i class="fa-solid fa-building-columns"></i> Spring 2024</a></li>
+                <li><a href="https://gragusa.org/econometria"><i class="fa-solid fa-building-columns"></i> Spring 2026</a></li>
                 
                 
             </ul>
@@ -5440,54 +5440,25 @@ Code
     <div class="course-entry">
         <div class="logo">
             
-            <a href="https://gragusa.org/advmetrics" target="_blank"><img src="https://gragusa.org/teaching/logo/advmetrics.png" alt="Advanced Econometrics" title="Advanced Econometrics"></a>
+            <a href="https://gragusa.org/intermediatemetrics/" target="_blank"><img src="https://gragusa.org/teaching/logo/intermediate256.png" alt="Intermediate Econometrics" title="Intermediate Econometrics"></a>
             
         </div>
         <div class="body">
             <p class="course-title">
                 
-                <a href="https://gragusa.org/advmetrics" target="_blank">Advanced Econometrics</a> 
+                <a href="https://gragusa.org/intermediatemetrics/" target="_blank">Intermediate Econometrics</a> 
                 
             </p>
             <p class="course-details">
-                <span class="course-number">10606494</span> | 
+                <span class="course-number">10620843</span> | 
                 <span class="course-university">Sapienza University of Rome</span>
                 
             </p>
-            <p class="course-description">The course provides a comprehensive coverage of classical econometric theory alongside its contemporary applications in empirical analysis. Central to the course is the exploration of methodologies for estimating causal relationships among economic variables and constructing forecasts in time series.
-The course has a theoretical and an empirical component. The theoretical part explores the asymptotic justification of many estimators routinely used to estimate the parameters of econometric models. The applied one applies these techniques to real data using Python.</p>
+            <p class="course-description">A master's-level course providing a rigorous foundation in theoretical and applied econometric analysis. Part I covers cross-sectional and panel data econometrics, focusing on asymptotic theory, the potential outcomes framework for causal inference, classical linear regression, instrumental variables, and linear panel data models. Part II covers time series econometrics, including ARIMA models, Vector Autoregressions (VARs), Structural VARs for causal identification and policy analysis, state-space models with Kalman filter estimation, and Dynamic Factor Models for high-dimensional forecasting and macroeconomic analysis.</p>
             <ul class="course-semesters">
                 
                 
-                <li><a href="https://gragusa.org/advmetrics"><i class="fa-solid fa-building-columns"></i> Spring 2024</a></li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
-    <div class="course-entry">
-        <div class="logo">
-            
-            <a href="https://gragusa.org/comptools" target="_blank"><img src="https://gragusa.org/teaching/logo/comptools.png" alt="Computational Tools in Macroeconometrics" title="Computational Tools in Macroeconometrics"></a>
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                <a href="https://gragusa.org/comptools" target="_blank">Computational Tools in Macroeconometrics</a> 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">AAF2351</span> | 
-                <span class="course-university">Sapienza University of Rome</span>
-                
-            </p>
-            <p class="course-description">The course covers the main computational aspects of modern econometrics tools when applied to macroeconomic.</p>
-            <ul class="course-semesters">
-                
-                
-                <li><a href="https://gragusa.org/comptools"><i class="fa-solid fa-building-columns"></i> Spring 2024</a></li>
+                <li><a href="https://gragusa.org/intermediatemetrics/"><i class="fa-solid fa-building-columns"></i> Spring 2026</a></li>
                 
                 
             </ul>
@@ -5498,67 +5469,81 @@ The course has a theoretical and an empirical component. The theoretical part ex
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">2022–23</h2>
-<div id="listing-ay_22-23" class="quarto-listing quarto-listing-container-custom">
-<div class="teaching">
+<section id="previously-taught" class="level2">
+<h2 class="anchored" data-anchor-id="previously-taught">Previously Taught</h2>
+<div id="listing-archive" class="quarto-listing quarto-listing-container-custom">
+<div class="teaching-archive">
     
-    <div class="course-entry">
-        <div class="logo">
-            
-            <img src="https://gragusa.org/teaching/logo/econometria1.png" alt="Econometria" title="Econometria">
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                Econometria 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">1017084</span> | 
-                <span class="course-university">Sapienza University of Rome</span>
-                
-            </p>
-            <p class="course-description">A basic econometric course, but in Italian</p>
-            <ul class="course-semesters">
-                
-                 
-                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Spring 2023</li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
-    <div class="course-entry">
-        <div class="logo">
-            
-            <img src="https://gragusa.org/teaching/logo/healthmetrics.png" alt="Health Econometrics" title="Health Econometrics">
-            
-        </div>
-        <div class="body">
-            <p class="course-title">
-                
-                Health Econometrics 
-                
-            </p>
-            <p class="course-details">
-                <span class="course-number">10592238</span> | 
-                <span class="course-university">Sapienza University of Rome</span>
-                
-            </p>
-            <p class="course-description">Because econometrics can cure you!</p>
-            <ul class="course-semesters">
-                
-                 
-                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Spring 2023</li>
-                
-                
-            </ul>
-        </div>
-    </div>
-    
+<table class="table table-hover caption-top">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Course</th>
+<th data-quarto-table-cell-role="th">Code</th>
+<th data-quarto-table-cell-role="th">Academic Year</th>
+<th data-quarto-table-cell-role="th">Semester</th>
+<th data-quarto-table-cell-role="th">University</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://gragusa.org/econometria" class="course-link">Econometria</a></td>
+<td>1018133</td>
+<td>2024–25</td>
+<td>Spring 2025</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="even">
+<td><a href="https://gragusa.org/advmetrics" class="course-link">Advanced Econometrics</a></td>
+<td>10606494</td>
+<td>2024–25</td>
+<td>Spring 2025</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="odd">
+<td><a href="https://gragusa.org/comptools" class="course-link">Computational Tools in Macroeconometrics</a></td>
+<td>AAF2351</td>
+<td>2024–25</td>
+<td>Spring 2025</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="even">
+<td><a href="https://gragusa.org/econometria" class="course-link">Econometria</a></td>
+<td>1018133</td>
+<td>2023–24</td>
+<td>Spring 2024</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="odd">
+<td><a href="https://gragusa.org/advmetrics" class="course-link">Advanced Econometrics</a></td>
+<td>10606494</td>
+<td>2023–24</td>
+<td>Spring 2024</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="even">
+<td><a href="https://gragusa.org/comptools" class="course-link">Computational Tools in Macroeconometrics</a></td>
+<td>AAF2351</td>
+<td>2023–24</td>
+<td>Spring 2024</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="odd">
+<td>Econometria</td>
+<td>1017084</td>
+<td>2022–23</td>
+<td>Spring 2023</td>
+<td>Sapienza University of Rome</td>
+</tr>
+<tr class="even">
+<td>Health Econometrics</td>
+<td>10592238</td>
+<td>2022–23</td>
+<td>Spring 2023</td>
+<td>Sapienza University of Rome</td>
+</tr>
+</tbody>
+</table>
+
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
@@ -5569,7 +5554,7 @@ The course has a theoretical and an empirical component. The theoretical part ex
 
  ]]></description>
   <guid>https://gragusa.org/teaching/</guid>
-  <pubDate>Mon, 19 Jan 2026 22:02:22 GMT</pubDate>
+  <pubDate>Mon, 19 Jan 2026 23:01:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
