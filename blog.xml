@@ -10,7 +10,7 @@
 <atom:link href="https://gragusa.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>gragusa&#39;s website</description>
 <generator>quarto-1.9.31</generator>
-<lastBuildDate>Wed, 18 Mar 2026 18:04:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 18:11:03 GMT</lastBuildDate>
 <item>
   <title>Page not found!</title>
   <link>https://gragusa.org/404.html</link>
@@ -29,7 +29,7 @@
 
  ]]></description>
   <guid>https://gragusa.org/404.html</guid>
-  <pubDate>Wed, 18 Mar 2026 18:04:00 GMT</pubDate>
+  <pubDate>Wed, 18 Mar 2026 18:11:03 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -51,7 +51,7 @@
 
  ]]></description>
   <guid>https://gragusa.org/code/</guid>
-  <pubDate>Wed, 18 Mar 2026 18:04:00 GMT</pubDate>
+  <pubDate>Wed, 18 Mar 2026 18:11:03 GMT</pubDate>
 </item>
 <item>
   <title>Monetary policy factors</title>
@@ -580,7 +580,7 @@ Download
 
 </section></section> ]]></description>
   <guid>https://gragusa.org/factors/</guid>
-  <pubDate>Wed, 18 Mar 2026 18:04:00 GMT</pubDate>
+  <pubDate>Wed, 18 Mar 2026 18:11:03 GMT</pubDate>
 </item>
 <item>
   <title>Giuseppe Ragusa</title>
@@ -689,7 +689,7 @@ Code
 
 </section> ]]></description>
   <guid>https://gragusa.org/</guid>
-  <pubDate>Wed, 18 Mar 2026 18:04:00 GMT</pubDate>
+  <pubDate>Wed, 18 Mar 2026 18:11:03 GMT</pubDate>
   <media:content url="https://gragusa.org/gr.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1906,7 +1906,7 @@ Code
 </div>
 </div></section> ]]></description>
   <guid>https://gragusa.org/papers/</guid>
-  <pubDate>Wed, 18 Mar 2026 18:04:00 GMT</pubDate>
+  <pubDate>Wed, 18 Mar 2026 18:11:03 GMT</pubDate>
 </item>
 <item>
   <title>Teaching</title>
@@ -2066,7 +2066,7 @@ Code
 
  ]]></description>
   <guid>https://gragusa.org/teaching/</guid>
-  <pubDate>Wed, 18 Mar 2026 18:04:00 GMT</pubDate>
+  <pubDate>Wed, 18 Mar 2026 18:11:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
