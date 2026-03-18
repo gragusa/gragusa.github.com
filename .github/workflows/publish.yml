@@ -21,7 +21,14 @@ jobs:
         uses: r-lib/actions/setup-r@v2
 
       - name: Install R packages
-        run: Rscript -e 'install.packages(c("knitr", "rmarkdown", "readtext", "dplyr", "kableExtra"), repos = "https://cloud.r-project.org")'
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::knitr
+            any::rmarkdown
+            any::readtext
+            any::dplyr
+            any::kableExtra
 
       - name: Install Python dependencies
         run: pip install bibtexparser chevron
