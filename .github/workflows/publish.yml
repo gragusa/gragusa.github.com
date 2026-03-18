@@ -19,8 +19,6 @@ jobs:
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
-        with:
-          install-r: false
 
       - name: Install R packages
         run: Rscript -e 'install.packages(c("knitr", "rmarkdown", "readtext", "dplyr", "kableExtra"), repos = "https://cloud.r-project.org")'
