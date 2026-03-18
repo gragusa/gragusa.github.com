@@ -18,7 +18,7 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Install Python dependencies
-        run: pip install bibtexparser
+        run: pip install bibtexparser chevron
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
