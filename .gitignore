@@ -2,5 +2,6 @@
 /.quarto/
 _freeze/
 _site/
-
+**/.DS_Store
+**/.Rhistory
 **/*.quarto_ipynb
