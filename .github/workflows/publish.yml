@@ -28,6 +28,7 @@ jobs:
             any::rmarkdown
             any::readtext
             any::dplyr
+            any::readr
             any::kableExtra
 
       - name: Install Python dependencies
