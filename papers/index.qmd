@@ -3,7 +3,7 @@ title: "Publications"
 comments: false
 ---
 
-## {{< fa newspaper >}} Articles in journals
+## Articles in journals
 
 ```{r}
 #| results: 'asis'
@@ -15,7 +15,7 @@ cat(a[1,2])
 cat("\n\`\`\`")
 ```
 
-## {{< fa book >}} Articles in books
+## Articles in books
 ```{r}
 #| results: 'asis'
 #| echo: false
@@ -25,7 +25,7 @@ cat("\`\`\`{=html}\n")
 cat(a[1,2])
 cat("\n\`\`\`")
 ```
-## {{< fa wrench >}} Working papers
+## Working papers
 ```{r}
 #| results: 'asis'
 #| echo: false
@@ -35,7 +35,7 @@ cat("\`\`\`{=html}\n")
 cat(a[1,2])
 cat("\n\`\`\`")
 ```
-## {{< fa briefcase >}} Other writings
+## Other writings
 
 ```{r}
 #| results: 'asis'

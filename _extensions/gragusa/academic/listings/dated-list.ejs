@@ -1,0 +1,15 @@
+```{=html}
+<% const empty = (typeof templateParams !== "undefined" && templateParams && templateParams.empty) || ""; %>
+<% if (items.length === 0 && empty) { %><p class="empty-list"><%= empty %></p><% } %>
+<ol class="dated-list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <time class="item-date"><%= item.date %></time>
+    <div>
+      <h3 class="item-title"><a href="<%- item.path %>"><%= item.title %></a></h3>
+      <% if (item.description) { %><div class="item-text"><%= item.description %></div><% } %>
+    </div>
+  </li>
+<% } %>
+</ol>
+```

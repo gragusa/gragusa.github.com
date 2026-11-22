@@ -1,13 +1,15 @@
 ---
 title: "Monetary policy factors"
 comments: false
+execute:
+  freeze: false
 ---
 
 
 
-{{< ai open-data >}} This page contains the monetary policy factors constructed using the procedure in [Altavilla, Brugnolini, Gürkaynak, Motto, and Ragusa (2019) (ABGMR)](https://doi.org/10.1016/j.jmoneco.2019.08.016).
+This page contains the monetary policy factors constructed using the procedure in [Altavilla, Brugnolini, Gürkaynak, Motto, and Ragusa (2019) (ABGMR)](https://doi.org/10.1016/j.jmoneco.2019.08.016).
 
-The factors are extracted from the [Euro Area Monetary Policy Event-Study Database](https://www.ecb.europa.eu/pub/pdf/annex/Dataset_EA-MPD.xlsx) and rotated to provide information about different channels of conventional and unconventional monetary policy. A detailed discussion of the factors rotation and the identification strategy is in the appendix of [(ABGMR){{< ai open-access >}}](https://doi.org/10.1016/j.jmoneco.2019.08.016).
+The factors are extracted from the [Euro Area Monetary Policy Event-Study Database](https://www.ecb.europa.eu/pub/pdf/annex/Dataset_EA-MPD.xlsx) and rotated to provide information about different channels of conventional and unconventional monetary policy. A detailed discussion of the factors rotation and the identification strategy is in the appendix of [(ABGMR)](https://doi.org/10.1016/j.jmoneco.2019.08.016).
 
 These three [vox.org](vox.org) articles might also be useful:
 
@@ -27,7 +29,9 @@ The factors are in two distinct `csv` files:
 
 The suffix `YYYY-MM-DD` in the filename denotes the last GC's surprises used in the factor extraction.
 
-You can also <a href="factors.zip" style="color: #0d6efd; text-decoration: underline;">download all vintages as a single zip file</a>.
+You can also [download all vintages as a single zip file](factors.zip).
+
+::: {.factors-table}
 
 ```{r}
 #| results: 'asis'
@@ -83,7 +87,7 @@ fac_tbl <- data.frame(
       link = fr,
       format = "html",
       background = "",
-      color = "#0d6efd",
+      color = "#231e1b",
       extra_css = "text-decoration: underline",
       popover = spec_tooltip(position = "auto", title = tooltip_left)
     ),
@@ -93,7 +97,7 @@ fac_tbl <- data.frame(
       link = fc,
       format = "html",
       background = "",
-      color = "#0d6efd",
+      color = "#231e1b",
       extra_css = "text-decoration: underline",
       popover = spec_tooltip(position = "auto", title = tooltip_right)
     ),
@@ -133,6 +137,8 @@ fac_tbl %>%
   column_spec(6, image = spec_plot(s_pc_qe, same_lim = TRUE), width = ".4cm")
 
 ```
+
+:::
 
 
 

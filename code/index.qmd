@@ -1,12 +1,23 @@
-# {{< iconify logos julia size=2x >}}  Packages 
+# Packages
+
+**[Regress.jl](https://github.com/gragusa/Regress.jl)** | High-performance linear models with fixed effects and instrumental variables
+
+**[Siphon.jl](https://github.com/gragusa/Siphon.jl)** | Linear state space models: Kalman filtering, smoothing, and estimation
 
 **[CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl)** | HAC Covariance Matrix Estimation
 
-**[BayesianTools.jl](https://github.com/gragusa/BayesianTools.jl)** | Utilities for Monte Carlo Markov Chain simulations 
+**[Factotum.jl](https://github.com/gragusa/Factotum.jl)** | Static factor models: PCA, EM, and iterative least squares, with missing data and information criteria
 
-**[Divergences.jl](https://github.com/gragusa/Divergences.jl)** | Fast evaluation of divergences 
+**[LocalProjections.jl](https://github.com/gragusa/LocalProjections.jl)** | Local projection impulse responses (experimental)
 
-**[Genoud.jl](https://github.com/gargusa/Genoud.jl)** | Genetic optimization using derivatives
+**[MacroEconometricTools.jl](https://github.com/gragusa/MacroEconometricTools.jl)** | VAR estimation, structural identification, and impulse responses
 
+**[ModelSummaries.jl](https://github.com/gragusa/ModelSummaries.jl)** | Publication-quality regression tables
 
+**[Divergences.jl](https://github.com/gragusa/Divergences.jl)** | Fast evaluation of divergences
 
+**[Hermetic.jl](https://github.com/gragusa/Hermetic.jl)** | Multivariate standard and Hermitian polynomials
+
+**[BayesianTools.jl](https://github.com/gragusa/BayesianTools.jl)** | Utilities for Monte Carlo Markov Chain simulations
+
+**[Genoud.jl](https://github.com/gragusa/Genoud.jl)** | Genetic optimization using derivatives

@@ -1,7 +1,10 @@
 /.luarc.json
 /.quarto/
-_freeze/
+# Blog posts are frozen (rendered locally, committed); other pages rerun in CI.
+_freeze/*
+!_freeze/posts/
 _site/
 **/.DS_Store
 **/.Rhistory
 **/*.quarto_ipynb
+factors/factors.zip

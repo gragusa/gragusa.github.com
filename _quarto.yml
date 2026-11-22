@@ -19,19 +19,18 @@ execute:
 website:
   title: "Giuseppe Ragusa"
   site-url: https://gragusa.org
-  repo-url: "https://github.com/gragusa.github.com/"
+  repo-url: "https://github.com/gragusa/gragusa.github.com"
   description: "gragusa's website"
   favicon: favicon.png
-  google-analytics: "UA-78069-5"
+  # Posts marked `draft: true` are not rendered or listed.
+  draft-mode: gone
   open-graph:
     locale: en_US
   twitter-card:
     creator: "@gragusa"
   navbar:
-    title: false
+    title: "Giuseppe Ragusa"
     right:
-      - text: "Home"
-        href: index.html
       - text: "CV"
         href: gragusa_cv.pdf
       - text: "Papers"
@@ -46,16 +45,10 @@ website:
         href: blog.html
       - icon: rss
         href: blog.xml
-  
+        aria-label: "Blog RSS feed"
+
   page-footer:
-    left: Giuseppe Ragusa  <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
-    # right: |      
-    #   <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) 
-    #   {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span>
+    left: "Giuseppe Ragusa · ORCID [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})"
 
 format:
-  html:
-    theme: [sandstone, _variables.scss, _custom.scss]
-    css: styles.css
-    code-link: true
-    footnotes-hover: true
+  academic-html: default

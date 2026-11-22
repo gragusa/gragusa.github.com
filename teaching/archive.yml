@@ -1,6 +1,22 @@
 - title: Econometria
   number: "1018133"
   university: Sapienza University of Rome
+  year: "2025–26"
+  url: https://gragusa.org/econometria
+  semester:
+  - name: Spring 2026
+
+- title: Intermediate Econometrics
+  number: "10620843"
+  university: Sapienza University of Rome
+  year: "2025–26"
+  url: https://gragusa.org/intermediatemetrics
+  semester:
+  - name: Spring 2026
+
+- title: Econometria
+  number: "1018133"
+  university: Sapienza University of Rome
   year: "2024–25"
   url: https://gragusa.org/econometria
   semester:

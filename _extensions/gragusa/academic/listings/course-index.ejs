@@ -1,0 +1,10 @@
+```{=html}
+<div class="course-index">
+<% for (const c of items) { %>
+  <div style="--course: <%= c.color || 'currentColor' %>">
+    <p><a href="<%- c.url %>"><%= c.title %></a>
+    <span class="course-meta"><%= (c.semester && c.semester[0] && c.semester[0].name) || c.number || "" %></span></p>
+  </div>
+<% } %>
+</div>
+```

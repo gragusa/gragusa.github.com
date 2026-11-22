@@ -1,19 +1,32 @@
 ---
 title: "Giuseppe Ragusa"
 image: gr.jpg
-about:
-  id: gr-presentation
-  template: trestles
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/gragusa
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.it/citations?user=b6fOfJcAAAAJ&hl=en&oi=ao
+body-classes: page-home
+listing:
+  id: teaching-now
+  contents: teaching/current.yml
+  sort: false
+  template: _extensions/gragusa/academic/listings/course-index.ejs
 ---
 
-:::{#gr-presentation}
-{{< fa building-columns >}} I am a Professor of Econometrics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) at [Sapienza the University of Rome](https://www.uniroma1.it/).
+::: {.home-intro}
+::: {}
+# Giuseppe Ragusa
+
+[[Github](https://github.com/gragusa) · [Google Scholar](https://scholar.google.it/citations?user=b6fOfJcAAAAJ&hl=en&oi=ao)]{.lede}
+:::
+
+![](gr.jpg){fig-alt="Portrait of Giuseppe Ragusa"}
+:::
+
+::: {.teaching-now}
+#### Teaching now
+
+::: {#teaching-now}
+:::
+:::
+
+I am a Professor of Econometrics at the [Department of Economics and Law](https://web.uniroma1.it/dip_ecodir/en) at [Sapienza the University of Rome](https://www.uniroma1.it/).
 
 I am the coordinator of the [Ph.D. in Economics](https://phd.uniroma1.it/web/ECONOMICS_nD3495_EN.aspx) at [Sapienza the University of Rome](https://www.uniroma1.it/).
 
@@ -23,15 +36,11 @@ Before joining  [Sapienza the University of Rome](https://www.uniroma1.it/), I h
 
 From 2015 to 2017, I was a Senior Economist at the Monetary Strategy Division of the  European Central Bank.
 
-{{< fa graduation-cap >}} I received my Ph.D. in Economics from the [University of California, San Diego](https://economics.ucsd.edu). My undergraduate education is from Bocconi University.
+I received my Ph.D. in Economics from the [University of California, San Diego](https://economics.ucsd.edu). My undergraduate education is from Bocconi University.
 
-{{< fa book-open-reader >}} My most recent research interests include: time series, economic forecasting, approximate bayesian inference, and machine learning applications to economics and finance.
+My most recent research interests include: time series, economic forecasting, approximate bayesian inference, and machine learning applications to economics and finance.
 
-{{< fa person-chalkboard >}} I teach undergraduate and graduate Econometrics, Time Series, and Machine Learning courses. These courses use Julia, R, and Python as software.
-
-
-:::
-
+I teach undergraduate and graduate Econometrics, Time Series, and Machine Learning courses. These courses use Julia, R, and Python as software.
 
 On this site, I keep [my cv](gragusa_cv.pdf), a list of [my publications](papers), my [code and packages](code), some interesting [data](factors), to my [teaching pages](teaching), and a very infrequently updated [blog](blog).
 
@@ -61,6 +70,6 @@ cat("\n\`\`\`")
 
 **[Genoud.jl](https://github.com/gargusa/Genoud.jl)** | Genetic optimization using derivatives -->
 
-#### {{< ai open-data >}} Data
+#### Data
 
 **[Monetary Policy Factors](factors)** Updated monetary policy factors.

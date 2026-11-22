@@ -16,6 +16,8 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.9.35
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
@@ -33,6 +35,9 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install bibtexparser chevron
+
+      - name: Build the factors archive
+        run: cd factors && zip -q -r factors.zip data -x '*.DS_Store'
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

@@ -1,0 +1,148 @@
+---
+title: "How far off are OLS standard errors with persistent data?"
+description: "When the regressor and the error are both persistent, the textbook OLS standard error is too small. A short Monte Carlo with CovarianceMatrices.jl measures the gap and how much of it a Newey–West correction closes."
+date: 2026-11-20
+author: Giuseppe Ragusa
+categories: [julia, time series, inference]
+engine: julia
+# Remove this line to publish the post.
+draft: true
+---
+
+The textbook OLS standard error treats the scores $x_t u_t$ as uncorrelated over time. In a time-series regression where both the regressor and the error are positively autocorrelated, the scores are autocorrelated too, and the standard error comes out too small. This post measures how much too small in a sample of 200 observations, and how much a Newey–West estimator recovers.
+
+## Design
+
+The data come from
+$$
+\begin{aligned}
+y_t &= \beta x_t + u_t, \\
+x_t &= \rho x_{t-1} + e_t, \\
+u_t &= \rho u_{t-1} + v_t,
+\end{aligned}
+$$
+with $e_t$ and $v_t$ independent standard normal, $\beta = 1$ and $T = 200$. For each $\rho \in \{0, 0.1, \dots, 0.9\}$ I draw 2,000 samples, regress $y$ on a constant and $x$, and record whether the interval $\hat\beta \pm 1.96\,\widehat{\mathrm{se}}$ contains $\beta$.
+
+Two standard errors compete. The first is the usual $s^2 (X'X)^{-1}$. The second is the sandwich
+$$
+\widehat V(\hat\beta) = \frac{1}{T}\,\hat Q^{-1}\,\hat\Omega\,\hat Q^{-1}, \qquad \hat Q = \frac{X'X}{T},
+$$
+where $\hat\Omega$ is the Bartlett-kernel estimate of the long-run variance of the scores, computed by `aVar` from [CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl). The bandwidth follows the common rule of thumb $L = \lfloor 4 (T/100)^{2/9} \rfloor$.
+
+For this design the large-sample variance of $\hat\beta$ is $(1+\rho^2)/(1-\rho^2)$ times what the OLS formula reports, because the score autocorrelation at lag $j$ is $\rho^{2|j|}$. The OLS interval therefore covers $\beta$ with probability $2\Phi\big(1.96\,\sqrt{(1-\rho^2)/(1+\rho^2)}\big) - 1$ in large samples, which gives a benchmark for the simulation.
+
+```{julia}
+#| label: setup
+#| output: false
+using CovarianceMatrices, Distributions, LinearAlgebra, Random, Statistics
+using CairoMakie
+CairoMakie.activate!(type = "svg")
+```
+
+```{julia}
+#| label: functions
+#| output: false
+# Stationary Gaussian AR(1) with unit innovation variance.
+function ar1(rng, T, ρ)
+    z = Vector{Float64}(undef, T)
+    z[1] = randn(rng) / sqrt(1 - ρ^2)
+    for t in 2:T
+        z[t] = ρ * z[t - 1] + randn(rng)
+    end
+    return z
+end
+
+# OLS slope, textbook s.e., and Newey–West s.e. (Bartlett, bandwidth L).
+function slope_and_ses(X, y, L)
+    T, k = size(X)
+    β̂ = X \ y
+    û = y - X * β̂
+    Qinv = inv(X' * X / T)
+    V_ols = dot(û, û) / (T - k) * Qinv / T
+    V_hac = Qinv * aVar(Bartlett(L), X .* û) * Qinv / T
+    return β̂[2], sqrt(V_ols[2, 2]), sqrt(V_hac[2, 2])
+end
+```
+
+```{julia}
+#| label: simulate
+T, R, β = 200, 2_000, 1.0
+L = floor(Int, 4 * (T / 100)^(2 / 9))
+ρs = 0.0:0.1:0.9
+z = quantile(Normal(), 0.975)
+rng = Xoshiro(20261120)
+
+coverage = map(ρs) do ρ
+    hits_ols = hits_hac = 0
+    for _ in 1:R
+        x = ar1(rng, T, ρ)
+        y = β .* x .+ ar1(rng, T, ρ)
+        b, se_ols, se_hac = slope_and_ses([ones(T) x], y, L)
+        hits_ols += abs(b - β) <= z * se_ols
+        hits_hac += abs(b - β) <= z * se_hac
+    end
+    (ols = hits_ols / R, hac = hits_hac / R)
+end
+cov_ols = getindex.(coverage, :ols)
+cov_hac = getindex.(coverage, :hac)
+asy_ols(ρ) = 2 * cdf(Normal(), z * sqrt((1 - ρ^2) / (1 + ρ^2))) - 1
+
+println("bandwidth L = ", L)
+println(rpad("ρ", 6), rpad("OLS", 8), "Newey–West")
+for (ρ, a, b) in zip(ρs, cov_ols, cov_hac)
+    println(rpad(ρ, 6), rpad(round(a; digits = 3), 8), round(b; digits = 3))
+end
+```
+
+```{julia}
+#| label: checks
+#| include: false
+pct(p) = string(round(100 * p; digits = 1), "%")
+i8 = findfirst(ρ -> ρ ≈ 0.8, ρs)
+mcse = sqrt(0.95 * 0.05 / R)
+# The text below states these orderings; stop the build if a rerun contradicts them.
+@assert cov_hac[i8] > cov_ols[i8] "Newey–West coverage is not above OLS coverage at ρ = 0.8"
+@assert cov_hac[i8] < 0.95 - 3mcse "Newey–West coverage at ρ = 0.8 is within 3 MC s.e. of 95%"
+```
+
+## Results
+
+```{julia}
+#| label: fig-coverage
+#| fig-cap: "Coverage of nominal 95% intervals for the slope. T = 200, 2,000 replications for each ρ. The dashed line is the large-sample coverage of the OLS interval."
+#| fig-alt: "Line chart of interval coverage against rho. OLS coverage falls from 95 percent at rho 0 to below 50 percent at rho 0.9 and tracks the dashed large-sample curve; Newey–West coverage stays higher but also falls as rho grows."
+# Series colors checked for color-vision deficiency; markers differ too.
+ols_color = colorant"#b95115"
+nw_color = colorant"#2e64a6"
+ink = colorant"#231e1b"
+fig = Figure(size = (680, 380), fontsize = 13, backgroundcolor = :transparent)
+ax = Axis(fig[1, 1];
+    xlabel = "ρ (persistence of regressor and error)",
+    ylabel = "coverage",
+    xticks = 0:0.1:0.9, yticks = 0.4:0.1:1.0,
+    backgroundcolor = :transparent,
+    topspinevisible = false, rightspinevisible = false,
+    xgridvisible = false, ygridcolor = (ink, 0.08))
+hlines!(ax, [0.95]; color = (ink, 0.45), linestyle = :dot, label = "nominal 95%")
+ρgrid = range(0, 0.9; length = 200)
+lines!(ax, ρgrid, asy_ols.(ρgrid);
+    color = (ols_color, 0.6), linestyle = :dash, linewidth = 1.5,
+    label = "OLS, large-sample")
+scatterlines!(ax, ρs, cov_ols; color = ols_color, linewidth = 2,
+    marker = :circle, markersize = 8, label = "OLS")
+scatterlines!(ax, ρs, cov_hac; color = nw_color, linewidth = 2,
+    marker = :rect, markersize = 8, label = "Newey–West")
+text!(ax, last(ρs), last(cov_ols); text = "OLS", color = ink,
+    align = (:right, :center), offset = (-10, -2))
+text!(ax, ρs[end - 1], cov_hac[end - 1]; text = "Newey–West", color = ink,
+    align = (:center, :bottom), offset = (0, 8))
+ylims!(ax, 0.4, 1.0)
+axislegend(ax; position = :lb, framevisible = false)
+fig
+```
+
+At $\rho = 0.8$ the OLS interval contains $\beta$ in `{julia} pct(cov_ols[i8])` of the samples, close to its large-sample value of `{julia} pct(asy_ols(0.8))`. The Newey–West interval reaches `{julia} pct(cov_hac[i8])`: a large improvement, but still short of 95%. Each coverage estimate near 95% has a Monte Carlo standard error of about `{julia} round(100 * mcse; digits = 1)` percentage points.
+
+The Newey–West estimator falls short for two reasons. With $T = 200$ the bandwidth is `{julia} L`, while at $\rho = 0.8$ the score autocorrelation at lag `{julia} L` is still `{julia} round(0.8^(2L); digits = 2)`, so the estimator drops autocovariances that matter. The Bartlett weights also shrink the ones it keeps. Both push $\hat\Omega$ toward zero. Two common remedies are a data-driven bandwidth (CovarianceMatrices.jl provides `Bartlett{Andrews}()` and `Bartlett{NeweyWest}()`) and fixed-$b$ critical values (Kiefer and Vogelsang, 2005, *Econometric Theory*).
+
+All numbers on this page are computed by the code above when the site is built.

@@ -3,7 +3,7 @@ title: "Teaching"
 description-meta: "{{< meta website.description >}}"
 listing:
   - id: current
-    contents: ay_25-26.yml
+    contents: current.yml
     sort: "date desc"
     template: ../html/teaching/listing.ejs
   - id: archive
@@ -16,7 +16,7 @@ toc-location: right
 toc-title: ""
 ---
 
-## Current Courses (2025–26)
+## Current Courses (2026–27)
 
 :::{#current}
 :::

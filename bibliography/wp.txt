@@ -3,7 +3,7 @@
 <a class="coauthor" href="https://scholar.google.com/citations?user=hDWPjWwAAAAJ">P. Naticchioni</a>, 
 <div class="me">G. Ragusa</div>
  and 
-<a class="coauthor" href="https://scholar.google.com/citations?user=OaXMzeYAAAAJ">R. Massari</a> (2014): </div><a class="bibtex-title" url=http://repec.iza.org/dp8465.pdf>Unconditional and Conditional Wage Polarization in Europe</a>, <div class="bibtex-journal">Discussion Paper Series, Forschungsinstitut zur Zukunft der Arbeit (IZA), No. 8465,</div> <div class="bibtex-volume"></div>.
+<a class="coauthor" href="https://scholar.google.com/citations?user=OaXMzeYAAAAJ">R. Massari</a> (2014): </div><a class="bibtex-title" href=http://repec.iza.org/dp8465.pdf>Unconditional and Conditional Wage Polarization in Europe</a>, <div class="bibtex-journal">Discussion Paper Series, Forschungsinstitut zur Zukunft der Arbeit (IZA), No. 8465,</div> <div class="bibtex-volume"></div>.
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-cond-uncond-polarization" role="button" aria-expanded="false" aria-controls="abstract-cond-uncond-polarization">
 [+]
 </a>
@@ -28,7 +28,7 @@ Code
 <a class="coauthor" href="https://scholar.google.com/citations?user=bYlMpnsAAAAJ">R. Giacomini</a>, 
 <a class="coauthor" href="">R. Gallant</a> and 
 <div class="me">G. Ragusa</div>
- (2014): </div><a class="bibtex-title" url=https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9692>Generalized Method of Moments with latent variables</a>, <div class="bibtex-journal">CEPR discussion paper, No. 9692,</div> <div class="bibtex-volume"></div>.
+ (2014): </div><a class="bibtex-title" href=https://cepr.org/active/publications/discussion_papers/dp.php?dpno=9692>Generalized Method of Moments with latent variables</a>, <div class="bibtex-journal">CEPR discussion paper, No. 9692,</div> <div class="bibtex-volume"></div>.
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-gmm-with-latent" role="button" aria-expanded="false" aria-controls="abstract-gmm-with-latent">
 [+]
 </a>
@@ -52,7 +52,7 @@ Code
 <div class="bibtex-authors">
 <a class="coauthor" href="https://scholar.google.com/citations?user=QCwoE8UAAAAJ">F. Mazzolari</a> and 
 <div class="me">G. Ragusa</div>
- (2012): </div><a class="bibtex-title" url=https://www.iza.org/publications/dp/6993/time-limits-the-effects-on-welfare-use-and-other-consumption-smoothing-mechanisms>Time limits: The effects on welfare use and other consumption-smoothing mechanisms</a>, <div class="bibtex-journal">Discussion Paper Series, Forschungsinstitut zur Zukunft der Arbeit (IZA), No. 6993,</div> <div class="bibtex-volume"></div>.
+ (2012): </div><a class="bibtex-title" href=https://www.iza.org/publications/dp/6993/time-limits-the-effects-on-welfare-use-and-other-consumption-smoothing-mechanisms>Time limits: The effects on welfare use and other consumption-smoothing mechanisms</a>, <div class="bibtex-journal">Discussion Paper Series, Forschungsinstitut zur Zukunft der Arbeit (IZA), No. 6993,</div> <div class="bibtex-volume"></div>.
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-time-limits" role="button" aria-expanded="false" aria-controls="abstract-time-limits">
 [+]
 </a>
@@ -75,7 +75,7 @@ Code
 </div><div class="bibtex-entry">
 <div class="bibtex-authors">
 <div class="me">G. Ragusa</div>
- (2011): </div><a class="bibtex-title" url=>Bayesian likelihoods for moment condition models</a>, <div class="bibtex-journal">mimeo,</div> <div class="bibtex-volume"></div>.
+ (2011): </div><a class="bibtex-title" href=>Bayesian likelihoods for moment condition models</a>, <div class="bibtex-journal">mimeo,</div> <div class="bibtex-volume"></div>.
 <a class="bibtex-abstract" data-bs-toggle="collapse" href="#abstract-bayesian-moment-condition" role="button" aria-expanded="false" aria-controls="abstract-bayesian-moment-condition">
 [+]
 </a>

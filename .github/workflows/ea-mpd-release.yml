@@ -1,0 +1,40 @@
+name: Check for a new EA-MPD release
+
+# Compares the Last-Modified date of the ECB's EA-MPD workbook with
+# factors/ea-mpd-last-modified.txt and opens an issue when they differ.
+# The factors themselves are estimated outside CI.
+on:
+  schedule:
+    - cron: "17 6 * * 1" # Mondays, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Compare Last-Modified dates
+        id: check
+        run: python3 scripts/check-ea-mpd.py
+
+      - name: Open an issue
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LAST_MODIFIED: ${{ steps.check.outputs.last_modified }}
+        run: |
+          title="New EA-MPD release (Last-Modified $LAST_MODIFIED)"
+          if gh issue list --state open --limit 200 --json title --jq '.[].title' | grep -Fxq "$title"; then
+            echo "An open issue already covers this release: $title"
+            exit 0
+          fi
+          gh issue create \
+            --title "$title" \
+            --body-file .github/ea-mpd-release-issue.md \
+            --assignee "$GITHUB_REPOSITORY_OWNER"

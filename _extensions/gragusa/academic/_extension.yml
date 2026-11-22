@@ -1,0 +1,15 @@
+title: Academic
+author: Giuseppe Ragusa
+version: 0.1.0
+quarto-required: ">=1.6.0"
+contributes:
+  formats:
+    html:
+      theme: [academic.scss]
+      css: [fonts/fonts.css]
+      highlight-style: arrow
+      code-copy: hover
+      anchor-sections: false
+      toc: false
+      grid:
+        body-width: 720px

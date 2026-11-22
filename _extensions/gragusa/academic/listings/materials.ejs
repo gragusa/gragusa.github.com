@@ -1,0 +1,37 @@
+```{=html}
+<%
+// Items keep the order of materials.yml; consecutive items with the same
+// `week` label form one group. Labels come from the YAML ("Week 1",
+// "Lezione 1", ...), so the template has no language of its own.
+const groups = [];
+for (const item of items) {
+  const last = groups[groups.length - 1];
+  if (last && last.week === item.week) { last.items.push(item); }
+  else { groups.push({ week: item.week, topic: item.topic, items: [item] }); }
+}
+const empty = (typeof templateParams !== "undefined" && templateParams && templateParams.empty) || "";
+%>
+<div class="materials">
+<% if (groups.length === 0 && empty) { %><p class="empty-list"><%= empty %></p><% } %>
+<% for (const g of groups) { %>
+  <section class="materials-week">
+    <h2 class="materials-week-title">
+      <span class="kicker"><%= g.week %></span>
+      <%= g.topic %>
+    </h2>
+    <ul class="materials-list">
+    <% for (const item of g.items) { %>
+      <li>
+        <span class="material-kind"><%= item.kind %></span>
+        <span class="material-title">
+          <% if (item.file || item.href) { %><a href="<%- item.file || item.href %>"><%= item.title %></a><% } else { %><%= item.title %><% } %>
+          <% if (item.note) { %><span class="material-note">· <%= item.note %></span><% } %>
+        </span>
+        <span class="material-date"><%= item.date || "" %></span>
+      </li>
+    <% } %>
+    </ul>
+  </section>
+<% } %>
+</div>
+```
