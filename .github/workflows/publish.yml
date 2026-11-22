@@ -33,8 +33,10 @@ jobs:
             any::readr
             any::kableExtra
 
+      # bibliography/makebib.py uses the bibtexparser 1.x API (bparser),
+      # which bibtexparser 2 removed.
       - name: Install Python dependencies
-        run: pip install bibtexparser chevron
+        run: pip install "bibtexparser<2" chevron
 
       - name: Build the factors archive
         run: cd factors && zip -q -r factors.zip data -x '*.DS_Store'
