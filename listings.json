@@ -5,13 +5,10 @@
   },
   {
     "listing": "/blog.html",
-    "items": [
-      "/404.html",
-      "/code/index.html",
-      "/factors/index.html",
-      "/index.html",
-      "/papers/index.html",
-      "/teaching/index.html"
-    ]
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]
